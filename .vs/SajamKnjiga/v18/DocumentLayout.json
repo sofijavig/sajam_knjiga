@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\kupovinadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\kupovinadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\kupovinadialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\kupovinadialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\core\\models\\kupovina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|solutionrelative:core\\models\\kupovina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\core\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|solutionrelative:core\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\core\\models\\izdavac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|solutionrelative:core\\models\\izdavac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\core\\services\\izdavacservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73109B29-DF6B-4EB5-867F-417F998F0EB4}|Core\\Core.csproj|solutionrelative:core\\services\\izdavacservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\selectknjigadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\selectknjigadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\selectautordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\selectautordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\posetiocizaautordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\posetiocizaautordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\posetiocipodveknjigedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\posetiocipodveknjigedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\posetilacdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\posetilacdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\knjigadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\knjigadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\infodialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\infodialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\errordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\errordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\confrimdialogautor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\confrimdialogautor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\confirmdialog2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\confirmdialog2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\confirmdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\confirmdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\autorisalistezeljadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\autorisalistezeljadialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\autordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\autordialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|c:\\users\\sofija\\desktop\\treca godina\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\sajamknjiga\\wpfclient\\views\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08A3796E-1A99-456C-AD68-822ED32E03E2}|WpfClient\\WpfClient.csproj|solutionrelative:wpfclient\\views\\aboutwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\MainWindow.xaml",
+              "RelativeToolTip": "WpfClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-30T12:56:11.017Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:53:45.927Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KupovinaDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KupovinaDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\KupovinaDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KupovinaDialog.xaml.cs",
+              "RelativeToolTip": "WpfClient\\Views\\KupovinaDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:43:22.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KupovinaDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KupovinaDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\KupovinaDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KupovinaDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\KupovinaDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:02.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Knjiga.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Knjiga.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Knjiga.cs",
+              "RelativeToolTip": "Core\\Models\\Knjiga.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:41:24.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kupovina.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Kupovina.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Kupovina.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Kupovina.cs",
+              "RelativeToolTip": "Core\\Models\\Kupovina.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:41:23.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Izdavac.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Izdavac.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Izdavac.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Models\\Izdavac.cs",
+              "RelativeToolTip": "Core\\Models\\Izdavac.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:13:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IzdavacServices.cs",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Services\\IzdavacServices.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\IzdavacServices.cs",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Services\\IzdavacServices.cs",
+              "RelativeToolTip": "Core\\Services\\IzdavacServices.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:13:01.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectKnjigaDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\SelectKnjigaDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\SelectKnjigaDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\SelectKnjigaDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\SelectKnjigaDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:19.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelectAutorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\SelectAutorDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\SelectAutorDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\SelectAutorDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\SelectAutorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PosetiociZaAutorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetiociZaAutorDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\PosetiociZaAutorDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetiociZaAutorDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\PosetiociZaAutorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PosetiociPoDveKnjigeDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetiociPoDveKnjigeDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\PosetiociPoDveKnjigeDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetiociPoDveKnjigeDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\PosetiociPoDveKnjigeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PosetilacDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetilacDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\PosetilacDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\PosetilacDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\PosetilacDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:46:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KnjigaDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KnjigaDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\KnjigaDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\KnjigaDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\KnjigaDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:55.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InfoDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\InfoDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\InfoDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\InfoDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\InfoDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:53.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ErrorDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\ErrorDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ErrorDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\ErrorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfrimDialogAutor.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfrimDialogAutor.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\ConfrimDialogAutor.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfrimDialogAutor.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\ConfrimDialogAutor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConfirmDialog2.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfirmDialog2.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\ConfirmDialog2.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfirmDialog2.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\ConfirmDialog2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:42.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfirmDIalog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfirmDIalog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\ConfirmDIalog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\ConfirmDIalog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\ConfirmDIalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AutoriSaListeZeljaDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AutoriSaListeZeljaDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\AutoriSaListeZeljaDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AutoriSaListeZeljaDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\AutoriSaListeZeljaDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:34.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutorDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AutorDialog.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\AutorDialog.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AutorDialog.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\AutorDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:27.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AboutWindow.xaml",
+              "RelativeDocumentMoniker": "WpfClient\\Views\\AboutWindow.xaml",
+              "ToolTip": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\Views\\AboutWindow.xaml",
+              "RelativeToolTip": "WpfClient\\Views\\AboutWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-03T11:45:24.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

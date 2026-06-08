@@ -1,0 +1,416 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!-- App -->
+    <sys:String x:Key="Title">Sajam knjiga</sys:String>
+    <sys:String x:Key="AppName">Sajam knjiga</sys:String>
+    <sys:String x:Key="AppSubtitle">WPF Client</sys:String>
+
+    <!-- Tabs -->
+    <sys:String x:Key="Visitors">Posetioci</sys:String>
+    <sys:String x:Key="Authors">Autori</sys:String>
+    <sys:String x:Key="Books">Knjige</sys:String>
+    <sys:String x:Key="Publishers">Izdavači</sys:String>
+
+    <!-- Section titles -->
+    <sys:String x:Key="VisitorsTitle">Posetioci</sys:String>
+    <sys:String x:Key="AuthorsTitle">Autori</sys:String>
+    <sys:String x:Key="BooksTitle">Knjige</sys:String>
+    <sys:String x:Key="PublishersTitle">Izdavači</sys:String>
+
+    <!-- Menu -->
+    <sys:String x:Key="MenuFile">_File</sys:String>
+    <sys:String x:Key="MenuNew">_New</sys:String>
+    <sys:String x:Key="MenuSave">_Save</sys:String>
+    <sys:String x:Key="MenuOpen">_Open</sys:String>
+    <sys:String x:Key="MenuOpenVisitors">_Posetioci</sys:String>
+    <sys:String x:Key="MenuOpenAuthors">_Autori</sys:String>
+    <sys:String x:Key="MenuOpenBooks">_Knjige</sys:String>
+    <sys:String x:Key="MenuOpenPublishers">_Izdavači</sys:String>
+    <sys:String x:Key="MenuExit">E_xit</sys:String>
+
+    <sys:String x:Key="MenuEdit">_Edit</sys:String>
+    <sys:String x:Key="MenuWishAuthors">Autori sa liste želja</sys:String>
+    <sys:String x:Key="MenuEditSelected">_Edit selected</sys:String>
+    <sys:String x:Key="MenuDeleteSelected">_Delete selected</sys:String>
+
+    <sys:String x:Key="MenuHelp">_Help</sys:String>
+    <sys:String x:Key="MenuAbout">_About</sys:String>
+
+    <!-- Toolbar/Search -->
+    <sys:String x:Key="TooltipAdd">Dodaj</sys:String>
+    <sys:String x:Key="TooltipEdit">Izmeni</sys:String>
+    <sys:String x:Key="TooltipDelete">Obriši</sys:String>
+    <sys:String x:Key="Refresh">Osveži</sys:String>
+    <sys:String x:Key="SearchPlaceholder">Pretraga...</sys:String>
+    <sys:String x:Key="TooltipSearch">Pretraga</sys:String>
+
+    <!-- Common column headers -->
+    <sys:String x:Key="ColFirstName">Ime</sys:String>
+    <sys:String x:Key="ColLastName">Prezime</sys:String>
+    <sys:String x:Key="ColEmail">E-mail</sys:String>
+    <sys:String x:Key="ColAddress">Adresa</sys:String>
+    <sys:String x:Key="ColStatus">Status</sys:String>
+
+    <!-- Visitors columns -->
+    <sys:String x:Key="ColVisitorsCardNumber">Broj članske karte</sys:String>
+
+    <!-- Authors columns -->
+    <sys:String x:Key="ColAuthorsIdCard">Broj lične karte</sys:String>
+    <sys:String x:Key="ColAuthorsBirthDate">Datum rođenja</sys:String>
+
+    <!-- Books columns -->
+    <sys:String x:Key="ColBooksISBN">ISBN</sys:String>
+    <sys:String x:Key="ColBooksTitle">Naziv</sys:String>
+    <sys:String x:Key="ColBooksPrice">Cena</sys:String>
+    <sys:String x:Key="ColBooksYear">Godina izdanja</sys:String>
+    <sys:String x:Key="ColBooksGenre">Žanr</sys:String>
+
+    <!-- Publishers columns -->
+    <sys:String x:Key="ColPublishersName">Naziv izdavača</sys:String>
+
+    <!-- Publishers right pane -->
+    <sys:String x:Key="PublishersAuthorsHeaderDefault">Autori izdavača</sys:String>
+    <sys:String x:Key="PublishersHintDefault">Klikni na izdavača levo da vidiš njegove autore.</sys:String>
+    <sys:String x:Key="BtnSetBoss">Postavi za šefa</sys:String>
+
+    <!-- Extra button -->
+    <sys:String x:Key="BtnVisitorsWishList">👥 Posetioci sa liste želja</sys:String>
+
+    <!-- Language buttons -->
+    <sys:String x:Key="LangSrLat">SR (Lat)</sys:String>
+    <sys:String x:Key="LangSrCyrl">SR (Ćir)</sys:String>
+    <sys:String x:Key="LangEn">EN</sys:String>
+
+    <!-- Formatting -->
+    <sys:String x:Key="PageOfFormat">Strana {0} od {1}</sys:String>
+
+    <!-- Status (minimal) -->
+    <sys:String x:Key="StatusBooksRefreshed">Osvežene knjige</sys:String>
+    <sys:String x:Key="StatusVisitorsRefreshed">Osveženi posetioci</sys:String>
+    <sys:String x:Key="StatusAuthorsRefreshed">Osveženi autori</sys:String>
+    <sys:String x:Key="StatusPublishersRefreshed">Osveženi izdavači</sys:String>
+
+    <!-- Autor dialog -->
+    <sys:String x:Key="AutorDialogSubtitle">Unesi podatke i izaberi bar jednu knjigu</sys:String>
+
+    <sys:String x:Key="TabInfo">Informacije</sys:String>
+    <sys:String x:Key="TabBooks">Knjige</sys:String>
+
+    <sys:String x:Key="ColPhone">Telefon</sys:String>
+    <sys:String x:Key="ColYearsExperience">God. iskustva</sys:String>
+    <sys:String x:Key="ColStreet">Ulica</sys:String>
+    <sys:String x:Key="ColNumber">Broj</sys:String>
+    <sys:String x:Key="ColCityCountry">Grad / Država</sys:String>
+
+    <sys:String x:Key="BtnAddBook">Dodaj knjigu</sys:String>
+    <sys:String x:Key="BtnRemoveBook">Ukloni knjigu</sys:String>
+
+    <sys:String x:Key="BtnConfirm">Potvrdi</sys:String>
+    <sys:String x:Key="BtnCancel">Odustani</sys:String>
+
+    <!-- AutorDialog (code-behind: titles) -->
+    <sys:String x:Key="AddAuthorTitle">Dodavanje autora</sys:String>
+    <sys:String x:Key="EditAuthorTitle">Izmena autora</sys:String>
+
+    <!-- AutorDialog (code-behind: validation errors) -->
+    <sys:String x:Key="Err_Author_LkRequired">Broj lične karte (LK) je obavezan.</sys:String>
+    <sys:String x:Key="Err_Author_FirstNameRequired">Ime je obavezno.</sys:String>
+    <sys:String x:Key="Err_Author_LastNameRequired">Prezime je obavezno.</sys:String>
+    <sys:String x:Key="Err_Author_BirthDateRequired">Datum rođenja je obavezan.</sys:String>
+    <sys:String x:Key="Err_Author_EmailInvalid">E-mail adresa nije ispravna.</sys:String>
+    <sys:String x:Key="Err_Author_PhoneRequired">Telefon je obavezan.</sys:String>
+    <sys:String x:Key="Err_Author_YearsInvalid">Godine iskustva moraju biti ceo broj (&gt;= 0).</sys:String>
+    <sys:String x:Key="Err_Author_StreetRequired">Ulica je obavezna.</sys:String>
+    <sys:String x:Key="Err_Author_NumberInvalid">Broj adrese mora biti pozitivan ceo broj.</sys:String>
+    <sys:String x:Key="Err_Author_CityRequired">Grad je obavezan.</sys:String>
+    <sys:String x:Key="Err_Author_CountryRequired">Država je obavezna.</sys:String>
+    <sys:String x:Key="Err_Author_MinOneBook">Autor mora imati najmanje jednu knjigu.</sys:String>
+
+    <sys:String x:Key="Err_NoBooksToAdd">Nema dostupnih knjiga za dodavanje (sve su već dodeljene autoru).</sys:String>
+    <sys:String x:Key="Err_SelectAtLeastOneBook">Izaberi bar jednu knjigu u tabeli.</sys:String>
+
+    <!-- AutorDialog (code-behind: confirm remove books) -->
+    <sys:String x:Key="Confirm_RemoveBooks_Title">Ukloni knjige</sys:String>
+    <sys:String x:Key="Confirm_RemoveBooks_Message">Da li ste sigurni da želite da uklonite {0} knjige?</sys:String>
+
+    <!-- line per selected book in details -->
+    <sys:String x:Key="ConfirmDetails_BookLine">ISBN: {0}  Naziv: {1}</sys:String>
+
+    <!-- AutoriSaListeZelja -->
+    <sys:String x:Key="WinWishAuthorsTitle">Autori sa liste želja</sys:String>
+    <sys:String x:Key="WishAuthorsHeader">🧑‍💼 Autori sa liste želja</sys:String>
+    <sys:String x:Key="BtnClear">Očisti</sys:String>
+    <sys:String x:Key="BtnClose">Zatvori</sys:String>
+    <sys:String x:Key="WishAuthorsVisitorFormat">Posetilac: {0}</sys:String>
+
+    <!-- CONFIRM DIALOG -->
+    <sys:String x:Key="Confirm_TitleDefault">Potvrda</sys:String>
+    <sys:String x:Key="Confirm_MessageDefault">Da li ste sigurni?</sys:String>
+
+    <sys:String x:Key="Common_Yes">Da</sys:String>
+    <sys:String x:Key="Common_No">Ne</sys:String>
+    <sys:String x:Key="Common_Close">Zatvori</sys:String>
+
+    <!-- CONFIRM DIALOG2 -->
+    <sys:String x:Key="Confirm2_WindowTitle">Potvrda</sys:String>
+    <sys:String x:Key="Confirm2_TitleDefault">Potvrda</sys:String>
+    <sys:String x:Key="Confirm2_MessageDefault">Da li ste sigurni?</sys:String>
+
+    <!-- confirm dialog autor -->
+    <sys:String x:Key="ConfirmAutor_WindowTitle">Ukloni autora</sys:String>
+    <sys:String x:Key="ConfirmAutor_HeaderTitle">Ukloni autora</sys:String>
+    <sys:String x:Key="ConfirmAutor_HeaderSubtitle">Potvrda akcije</sys:String>
+    <sys:String x:Key="ConfirmAutor_Message">Da li ste sigurni da želite da uklonite autora?</sys:String>
+
+    <!-- error dialog -->
+    <sys:String x:Key="Error_WindowTitle">Greška</sys:String>
+    <sys:String x:Key="Common_OK">OK</sys:String>
+    <sys:String x:Key="Error_Title">Greška</sys:String>
+    <sys:String x:Key="Error_Subtitle">Došlo je do problema</sys:String>
+    <sys:String x:Key="Error_Unknown">Nepoznata greška.</sys:String>
+
+    <!-- info dialog -->
+    <sys:String x:Key="Info_WindowTitle">Obaveštenje</sys:String>
+
+    <!-- Knjiga dialog -->
+    <sys:String x:Key="WinBookTitle">Knjiga</sys:String>
+    <sys:String x:Key="BookDialogSubtitle">Unesi podatke o knjizi</sys:String>
+
+    <sys:String x:Key="BookPublisher">Izdavač</sys:String>
+    <sys:String x:Key="BookPriceRsd">Cena (RSD)</sys:String>
+    <sys:String x:Key="BookPages">Broj strana</sys:String>
+    <sys:String x:Key="BookAuthorsRequired">Autori *</sys:String>
+
+    <!-- KnjigaDialog (code-behind: titles) -->
+    <sys:String x:Key="AddBookTitle">Dodavanje knjige</sys:String>
+    <sys:String x:Key="EditBookTitle">Izmena knjige</sys:String>
+
+    <!-- KnjigaDialog (code-behind: validation errors) -->
+    <sys:String x:Key="Err_Book_IsbnRequired">ISBN je obavezan.</sys:String>
+    <sys:String x:Key="Err_Book_TitleRequired">Naziv je obavezan.</sys:String>
+    <sys:String x:Key="Err_Book_GenreRequired">Žanr je obavezan.</sys:String>
+    <sys:String x:Key="Err_Book_PublisherRequired">Izdavač je obavezan.</sys:String>
+    <sys:String x:Key="Err_Book_YearInvalid">Godina izdanja mora biti ceo broj (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Book_PriceInvalid">Cena mora biti ceo broj (&gt;= 0).</sys:String>
+    <sys:String x:Key="Err_Book_PagesInvalid">Broj strana mora biti ceo broj (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Book_MinOneAuthor">Knjiga mora imati najmanje jednog autora.</sys:String>
+
+    <!-- Kupovina dialog -->
+    <sys:String x:Key="Kupovina_Title">Kupovina knjige</sys:String>
+    <sys:String x:Key="Kupovina_HeaderTitle">Kupovina knjige</sys:String>
+    <sys:String x:Key="Kupovina_HeaderSubtitle">Unos podataka o kupovini</sys:String>
+
+    <sys:String x:Key="Kupovina_LabelIsbn">ISBN *</sys:String>
+    <sys:String x:Key="Kupovina_LabelNaziv">Naziv *</sys:String>
+    <sys:String x:Key="Kupovina_LabelOcena">Ocena *</sys:String>
+    <sys:String x:Key="Kupovina_LabelDatum">Datum kupovine *</sys:String>
+
+    <!-- Posetilac dialog -->
+    <sys:String x:Key="WinVisitorTitle">Posetilac</sys:String>
+
+    <sys:String x:Key="Posetilac_HeaderTitle">Posetilac</sys:String>
+    <sys:String x:Key="Posetilac_HeaderSubtitle">Izmeni podatke, kupovine i želje</sys:String>
+
+    <sys:String x:Key="Posetilac_LabelCK">Broj članske karte (CK) *</sys:String>
+    <sys:String x:Key="Posetilac_LabelBirthDate">Datum rođenja *</sys:String>
+    <sys:String x:Key="Posetilac_LabelCity">Grad *</sys:String>
+    <sys:String x:Key="Posetilac_LabelCountry">Država *</sys:String>
+
+    <sys:String x:Key="Posetilac_StatusRegular">Redovan</sys:String>
+    <sys:String x:Key="Posetilac_StatusVip">VIP</sys:String>
+
+    <sys:String x:Key="Posetilac_TabPurchased">Kupljene</sys:String>
+    <sys:String x:Key="Posetilac_TabWishes">Želje</sys:String>
+
+    <sys:String x:Key="Posetilac_BtnCancelPurchase">Poništi kupovinu</sys:String>
+    <sys:String x:Key="Posetilac_BtnPurchase">Kupovina</sys:String>
+    <sys:String x:Key="Posetilac_BtnAuthors">Autori</sys:String>
+
+    <sys:String x:Key="Posetilac_ColBook">Knjiga</sys:String>
+    <sys:String x:Key="Posetilac_ColPrice">Cena</sys:String>
+    <sys:String x:Key="Posetilac_ColDate">Datum</sys:String>
+    <sys:String x:Key="Posetilac_ColRating">Ocena</sys:String>
+    <sys:String x:Key="Posetilac_ColComment">Komentar</sys:String>
+    <sys:String x:Key="Posetilac_ColPublisher">Izdavač</sys:String>
+
+    <sys:String x:Key="Posetilac_SummaryAvgPlaceholder">Prosečna ocena: -</sys:String>
+    <sys:String x:Key="Posetilac_SummarySpentPlaceholder">Potrošeno: - RSD</sys:String>
+    <sys:String x:Key="Posetilac_SummaryAvgFormat">Prosečna ocena: {0:0.0}</sys:String>
+    <sys:String x:Key="Posetilac_SummarySpentFormat">Potrošeno: {0} RSD</sys:String>
+
+    <!-- Code-behind titles -->
+    <sys:String x:Key="AddVisitorTitle">Dodavanje posetioca</sys:String>
+    <sys:String x:Key="EditVisitorTitle">Izmena posetioca</sys:String>
+
+    <!-- Code-behind errors -->
+    <sys:String x:Key="Err_WishListEmpty">Lista želja je prazna.</sys:String>
+    <sys:String x:Key="Err_NoAuthorsToShow">Nema autora za prikaz (knjige nemaju dodeljene autore).</sys:String>
+
+    <sys:String x:Key="Err_BookAlreadyInWishList">Ta knjiga je već na listi želja.</sys:String>
+    <sys:String x:Key="Err_SelectWishBookRow">Selektuj knjigu iz tabele želja.</sys:String>
+    <sys:String x:Key="Err_BookAlreadyPurchased">Ta knjiga je već u kupljenim.</sys:String>
+    <sys:String x:Key="Err_SelectPurchasedRow">Selektuj kupovinu iz tabele kupljenih.</sys:String>
+
+    <!-- Confirm dialogs -->
+    <sys:String x:Key="Confirm_RemoveWishBook_Title">Uklanjanje knjige</sys:String>
+    <sys:String x:Key="Confirm_RemoveWishBook_Message">Da li sigurno želiš da ukloniš knjigu iz liste želja?</sys:String>
+
+    <sys:String x:Key="Confirm_CancelPurchase_Title">Poništavanje kupovine</sys:String>
+    <sys:String x:Key="Confirm_CancelPurchase_Message">Da li sigurno želiš da poništiš kupovinu?</sys:String>
+
+    <!-- Validation errors -->
+    <sys:String x:Key="Err_Visitor_CkRequired">Broj članske karte (CK) je obavezan.</sys:String>
+    <sys:String x:Key="Err_Visitor_FirstNameRequired">Ime je obavezno.</sys:String>
+    <sys:String x:Key="Err_Visitor_LastNameRequired">Prezime je obavezno.</sys:String>
+    <sys:String x:Key="Err_Visitor_BirthDateRequired">Datum rođenja je obavezan.</sys:String>
+    <sys:String x:Key="Err_Visitor_PhoneRequired">Kontakt telefon je obavezan.</sys:String>
+    <sys:String x:Key="Err_Visitor_EmailInvalid">E-mail adresa nije ispravna.</sys:String>
+    <sys:String x:Key="Err_Visitor_StreetRequired">Ulica je obavezna.</sys:String>
+    <sys:String x:Key="Err_Visitor_NumberInvalid">Broj ulice mora biti ceo broj (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Visitor_CityRequired">Grad je obavezan.</sys:String>
+    <sys:String x:Key="Err_Visitor_CountryRequired">Država je obavezna.</sys:String>
+
+    <!-- Posetioci za autora -->
+    <sys:String x:Key="WinVisitorsForAuthorTitle">Posetioci za autora</sys:String>
+    <sys:String x:Key="VisitorsForAuthor_HeaderDefault">👥 Posetioci</sys:String>
+    <sys:String x:Key="VisitorsForAuthor_TotalFormat">Ukupno: {0}</sys:String>
+
+    <!-- ✅ New keys used by MainWindow.xaml.cs -->
+    <sys:String x:Key="PublishersAuthorsHeader">Autori izdavača</sys:String>
+    <sys:String x:Key="PublishersAuthorsHint">Klikni na izdavača levo da vidiš njegove autore.</sys:String>
+    <sys:String x:Key="PublishersAuthorsHeaderFor">Autori: {0}</sys:String>
+    <sys:String x:Key="PublishersAuthorsNone">Nema autora za ovog izdavača.</sys:String>
+    <sys:String x:Key="PublishersAuthorsTotal">Ukupno autora: {0}</sys:String>
+    <sys:String x:Key="ErrShowPublishersAuthors">Greška pri prikazu autora izdavača:&#10;{0}</sys:String>
+
+    <sys:String x:Key="MsgAppSaved">Stanje aplikacije je sačuvano.</sys:String>
+    <sys:String x:Key="StatusSaved">Sačuvano</sys:String>
+    <sys:String x:Key="StatusSaveError">Greška pri čuvanju</sys:String>
+    <sys:String x:Key="ErrSave">Greška pri čuvanju:&#10;{0}</sys:String>
+    <sys:String x:Key="MsgAbout">IS Sajam knjiga - WPF aplikacija</sys:String>
+
+    <sys:String x:Key="ErrAdd">Greška pri dodavanju:&#10;{0}</sys:String>
+    <sys:String x:Key="ErrUpdate">Greška pri izmeni:&#10;{0}</sys:String>
+    <sys:String x:Key="ErrDelete">Greška pri brisanju:&#10;{0}</sys:String>
+    <sys:String x:Key="ErrGeneric">Greška:&#10;{0}</sys:String>
+    <sys:String x:Key="StatusAddError">Greška pri dodavanju</sys:String>
+    <sys:String x:Key="StatusUpdateError">Greška pri izmeni</sys:String>
+    <sys:String x:Key="StatusDeleteError">Greška pri brisanju</sys:String>
+
+    <sys:String x:Key="MsgSelectBookFromTable">Izaberi knjigu iz tabele.</sys:String>
+    <sys:String x:Key="MsgSelectVisitorFromTable">Izaberi posetioca iz tabele.</sys:String>
+    <sys:String x:Key="MsgSelectAuthorFromTable">Izaberi autora iz tabele.</sys:String>
+
+    <sys:String x:Key="MsgBookNotFound">Knjiga nije pronađena.</sys:String>
+    <sys:String x:Key="MsgAuthorNotFound">Autor nije pronađen.</sys:String>
+
+    <sys:String x:Key="StatusBookAdded">Knjiga dodata</sys:String>
+    <sys:String x:Key="StatusBookUpdated">Knjiga izmenjena</sys:String>
+    <sys:String x:Key="StatusBookDeleted">Knjiga obrisana</sys:String>
+
+    <sys:String x:Key="StatusVisitorAdded">Posetilac dodat</sys:String>
+    <sys:String x:Key="StatusVisitorUpdated">Posetilac izmenjen</sys:String>
+    <sys:String x:Key="StatusVisitorDeleted">Posetilac obrisan</sys:String>
+
+    <sys:String x:Key="StatusAuthorAdded">Autor dodat</sys:String>
+    <sys:String x:Key="StatusAuthorUpdated">Autor izmenjen</sys:String>
+    <sys:String x:Key="StatusAuthorDeleted">Autor obrisan</sys:String>
+
+    <sys:String x:Key="MsgPublishersDerivedFromBooks">Izdavači su izvedeni iz knjiga (Knjiga.Izdavac). Dodaj/izmeni izdavača kroz izmenu knjige.</sys:String>
+    <sys:String x:Key="MsgPublisherEditViaBook">Izdavač menjaš kroz izmenu knjige (polje Izdavac).</sys:String>
+    <sys:String x:Key="MsgPublishersDerivedDeleteHint">Izdavači su izvedeni iz knjiga. Brisanje izdavača znači: izbriši ili izmeni knjige koje imaju tog izdavača.</sys:String>
+
+    <sys:String x:Key="DlgDeleteBookTitle">Brisanje knjige</sys:String>
+    <sys:String x:Key="DlgDeleteBookMessage">Da li ste sigurni da želite&#10;da obrišete knjigu?</sys:String>
+    <sys:String x:Key="DlgDeleteBookDetails">{0} ({1})</sys:String>
+
+    <sys:String x:Key="DlgDeleteVisitorTitle">Brisanje posetioca</sys:String>
+    <sys:String x:Key="DlgDeleteVisitorMessage">Da li ste sigurni da želite&#10;da obrišete posetioca?</sys:String>
+    <sys:String x:Key="DlgDeleteVisitorDetails">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="DlgDeleteAuthorTitle">Brisanje autora</sys:String>
+    <sys:String x:Key="DlgDeleteAuthorMessage">Da li ste sigurni da želite&#10;da obrišete autora?</sys:String>
+    <sys:String x:Key="DlgDeleteAuthorDetails">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="StatusSearchBooks">Pretraga: knjige</sys:String>
+    <sys:String x:Key="StatusSearchVisitors">Pretraga: posetioci</sys:String>
+    <sys:String x:Key="StatusSearchAuthors">Pretraga: autori</sys:String>
+
+    <sys:String x:Key="MsgFeatureOnlyVisitorsTab">Ova funkcionalnost je dostupna u tabu Posetioci.</sys:String>
+    <sys:String x:Key="MsgMarkVisitorInTable">Označi posetioca u tabeli.</sys:String>
+    <sys:String x:Key="MsgVisitorHasNoWishlist">Posetilac nema knjige na listi želja.</sys:String>
+    <sys:String x:Key="WishlistAuthorsHeader">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="MsgSelectPublisher">Izaberi izdavača.</sys:String>
+    <sys:String x:Key="MsgSelectAuthorInTable">Izaberi autora u tabeli.</sys:String>
+    <sys:String x:Key="DlgSetBossTitle">Postavi šefa</sys:String>
+    <sys:String x:Key="DlgSetBossMessage">Da li ste sigurni da želite da postavite autora za šefa izdavača?</sys:String>
+    <sys:String x:Key="DlgSetBossDetails">Izdavač: {0}&#10;Autor: {1} {2}&#10;LK: {3}</sys:String>
+    <sys:String x:Key="MsgBossSetSuccess">Šef izdavača je uspešno postavljen.</sys:String>
+
+    <sys:String x:Key="MsgFeatureOnlyAuthorsTab">Ova funkcionalnost je dostupna u tabu Autori.</sys:String>
+    <sys:String x:Key="MsgAuthorHasNoBooks">Izabrani autor nema nijednu knjigu.</sys:String>
+    <sys:String x:Key="DlgVisitorsForAuthorTitle">👥 Posetioci (lista želja) — {0} {1}</sys:String>
+
+    <!-- select autor dialog -->
+    <sys:String x:Key="SelectAutor_Title">Odaberi autora</sys:String>
+    <sys:String x:Key="SelectAutor_HeaderTitle">Odaberi autora</sys:String>
+    <sys:String x:Key="SelectAutor_HeaderSubtitle">Izaberi jednog autora iz liste</sys:String>
+    <sys:String x:Key="Err_SelectAuthorFromList">Izaberi autora iz liste.</sys:String>
+    
+    <!--select knjiga dialog -->
+    <sys:String x:Key="SelectKnjiga_Title">Izbor knjige</sys:String>
+    <sys:String x:Key="SelectKnjiga_HeaderTitle">Izbor knjige</sys:String>
+    <sys:String x:Key="SelectKnjiga_HeaderSubtitle">Izaberi knjigu i potvrdi (dupli klik radi isto).</sys:String>
+    <sys:String x:Key="SelectKnjiga_FilterTooltip">Filtriraj po ISBN ili nazivu</sys:String>
+
+    <sys:String x:Key="Err_SelectBookFromList">Izaberi knjigu iz liste.</sys:String>
+
+    <!-- PosetiociPoDveKnjigeDialog -->
+    <sys:String x:Key="WinVisitorsTwoBooksTitle">Posetioci sa dve knjige</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_Header">📚 Posetioci po dve knjige</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_FirstBookLabel">Prva knjiga:</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_SecondBookLabel">Druga knjiga:</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_ShowBtn">Prikaži posetioce</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_TabBothWish">Obe knjige na wish listi</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_TabBoughtFirstNotSecond">Kupili prvu, drugu nisu</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_SubFormat">Prva knjiga: {0}, Druga knjiga: {1}</sys:String>
+
+    <sys:String x:Key="Err_SelectBothBooks">Izaberite obe knjige!</sys:String>
+
+    <!-- AboutWindow -->
+    <sys:String x:Key="About_Title">O aplikaciji</sys:String>
+    <sys:String x:Key="About_Header">📚 Sajam Knjiga</sys:String>
+    <sys:String x:Key="About_Description">Ova aplikacija omogućava praćenje posetilaca, autora, knjiga i izdavača na Sajmu knjiga. Možete dodavati nove unose, pregledati postojeće i sortirati podatke.</sys:String>
+    <sys:String x:Key="About_AuthorsHeader">Autori:</sys:String>
+
+    <sys:String x:Key="About_Author1">Ivo Andrić – Ivo Andrić je bio nobelovac i jedan od najpoznatijih srpskih pisaca. Njegova dela često istražuju istoriju i život običnih ljudi u Bosni.</sys:String>
+    <sys:String x:Key="About_Author2">Frederik Bakman – Frederik Bakman je švedski pisac poznat po toplim, duhovitim romanima. Njegove priče kombinuju humor i ljudsku empatiju.</sys:String>
+    <sys:String x:Key="About_Author3">Antoan de Sent Egziperi – Francuski pisac i pilot. Najpoznatiji je po knjizi Mali princ, svetskom klasiku.</sys:String>
+    <sys:String x:Key="About_Author4">Markus Zusak – Australijski pisac poznat po romanu Kradljivac knjiga.</sys:String>
+    <sys:String x:Key="About_Author5">Agata Kristi – Engleska autorka kriminalističkih romana, poznata po zapletima i misterijama.</sys:String>
+    <sys:String x:Key="About_Author6">Harper Li – Američka spisateljica poznata po romanu Ubiti pticu rugalicu.</sys:String>
+    <sys:String x:Key="About_Author7">Ernest Hemingvej – Američki romanopisac i nobelovac, poznat po jednostavnom i snažnom stilu.</sys:String>
+    <sys:String x:Key="About_Author8">Artur Konan Dojl – Tvorac Šerloka Holmsa, majstor detektivskih priča.</sys:String>
+    <sys:String x:Key="About_Author9">Fjodor Dostojevski – Ruski romanopisac koji istražuje ljudsku psihu i moral.</sys:String>
+    <sys:String x:Key="About_Author10">Emili Bronte – Autorka romana Orkanski visovi.</sys:String>
+    <sys:String x:Key="About_Author11">Teri Pratet – Britanski pisac fantazije i humora, poznat po serijalu Diskovni svet.</sys:String>
+    <sys:String x:Key="About_Author12">Nil Gejmen – Engleski pisac fantazije i stripova, poznat po mračnim i magičnim pričama.</sys:String>
+
+    <sys:String x:Key="Err_SelectPublisher">Izaberite izdavača.</sys:String>
+    <sys:String x:Key="Info_NoBooksForPublisher">Nema knjiga za ovog izdavača.</sys:String>
+
+    <sys:String x:Key="Books_Name">Naziv</sys:String>
+    <sys:String x:Key="Books_ISBN">ISBN</sys:String>
+    <sys:String x:Key="Books_Genre">Žanr</sys:String>
+    <sys:String x:Key="Books_Year">Godina</sys:String>
+    <sys:String x:Key="Books_Price">Cena</sys:String>
+    <sys:String x:Key="Books_Pages">Broj strana</sys:String>
+
+    <sys:String x:Key="Msg_Title_Warn">Upozorenje</sys:String>
+    <sys:String x:Key="Msg_Title_Info">Informacija</sys:String>
+    <sys:String x:Key="BtnShowBooksOfPublisher">Knjige izdavača</sys:String>
+
+</ResourceDictionary>

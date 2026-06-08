@@ -1,0 +1,20 @@
+﻿WpfClient
+
+
+winexe
+C#
+.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\
+WpfClient
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\App.xaml
+201648960539
+
+201258696418
+200-247222757
+MainWindow.xaml;Resources\Strings.en.xaml;Resources\Strings.sr-cirilica.xaml;Resources\Strings.sr.xaml;Views\AboutWindow.xaml;Views\AutorDialog.xaml;Views\AutoriSaListeZeljaDialog.xaml;Views\ConfirmDIalog.xaml;Views\ConfirmDialog2.xaml;Views\ConfrimDialogAutor.xaml;Views\ErrorDialog.xaml;Views\InfoDialog.xaml;Views\IzdavacKnjigeDialog.xaml;Views\KnjigaDialog.xaml;Views\KupovinaDialog.xaml;Views\PosetilacDialog.xaml;Views\PosetiociPoDveKnjigeDialog.xaml;Views\PosetiociZaAutorDialog.xaml;Views\SelectAutorDialog.xaml;Views\SelectKnjigaDialog.xaml;
+
+False
+

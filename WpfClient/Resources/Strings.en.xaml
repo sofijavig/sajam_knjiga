@@ -1,0 +1,416 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!-- App -->
+    <sys:String x:Key="Title">Book Fair</sys:String>
+    <sys:String x:Key="AppName">Book Fair</sys:String>
+    <sys:String x:Key="AppSubtitle">WPF Client</sys:String>
+
+    <!-- Tabs -->
+    <sys:String x:Key="Visitors">Visitors</sys:String>
+    <sys:String x:Key="Authors">Authors</sys:String>
+    <sys:String x:Key="Books">Books</sys:String>
+    <sys:String x:Key="Publishers">Publishers</sys:String>
+
+    <!-- Section titles -->
+    <sys:String x:Key="VisitorsTitle">Visitors</sys:String>
+    <sys:String x:Key="AuthorsTitle">Authors</sys:String>
+    <sys:String x:Key="BooksTitle">Books</sys:String>
+    <sys:String x:Key="PublishersTitle">Publishers</sys:String>
+
+    <!-- Menu -->
+    <sys:String x:Key="MenuFile">_File</sys:String>
+    <sys:String x:Key="MenuNew">_New</sys:String>
+    <sys:String x:Key="MenuSave">_Save</sys:String>
+    <sys:String x:Key="MenuOpen">_Open</sys:String>
+    <sys:String x:Key="MenuOpenVisitors">_Visitors</sys:String>
+    <sys:String x:Key="MenuOpenAuthors">_Authors</sys:String>
+    <sys:String x:Key="MenuOpenBooks">_Books</sys:String>
+    <sys:String x:Key="MenuOpenPublishers">_Publishers</sys:String>
+    <sys:String x:Key="MenuExit">E_xit</sys:String>
+
+    <sys:String x:Key="MenuEdit">_Edit</sys:String>
+    <sys:String x:Key="MenuWishAuthors">Wish-list authors</sys:String>
+    <sys:String x:Key="MenuEditSelected">_Edit selected</sys:String>
+    <sys:String x:Key="MenuDeleteSelected">_Delete selected</sys:String>
+
+    <sys:String x:Key="MenuHelp">_Help</sys:String>
+    <sys:String x:Key="MenuAbout">_About</sys:String>
+
+    <!-- Toolbar/Search -->
+    <sys:String x:Key="TooltipAdd">Add</sys:String>
+    <sys:String x:Key="TooltipEdit">Edit</sys:String>
+    <sys:String x:Key="TooltipDelete">Delete</sys:String>
+    <sys:String x:Key="Refresh">Refresh</sys:String>
+    <sys:String x:Key="SearchPlaceholder">Search...</sys:String>
+    <sys:String x:Key="TooltipSearch">Search</sys:String>
+
+    <!-- Common column headers -->
+    <sys:String x:Key="ColFirstName">First name</sys:String>
+    <sys:String x:Key="ColLastName">Last name</sys:String>
+    <sys:String x:Key="ColEmail">Email</sys:String>
+    <sys:String x:Key="ColAddress">Address</sys:String>
+    <sys:String x:Key="ColStatus">Status</sys:String>
+
+    <!-- Visitors columns -->
+    <sys:String x:Key="ColVisitorsCardNumber">Membership card no.</sys:String>
+
+    <!-- Authors columns -->
+    <sys:String x:Key="ColAuthorsIdCard">ID card no.</sys:String>
+    <sys:String x:Key="ColAuthorsBirthDate">Birth date</sys:String>
+
+    <!-- Books columns -->
+    <sys:String x:Key="ColBooksISBN">ISBN</sys:String>
+    <sys:String x:Key="ColBooksTitle">Title</sys:String>
+    <sys:String x:Key="ColBooksPrice">Price</sys:String>
+    <sys:String x:Key="ColBooksYear">Year</sys:String>
+    <sys:String x:Key="ColBooksGenre">Genre</sys:String>
+
+    <!-- Publishers columns -->
+    <sys:String x:Key="ColPublishersName">Publisher name</sys:String>
+
+    <!-- Publishers right pane (older keys you had) -->
+    <sys:String x:Key="PublishersAuthorsHeaderDefault">Publisher authors</sys:String>
+    <sys:String x:Key="PublishersHintDefault">Click a publisher on the left to see its authors.</sys:String>
+    <sys:String x:Key="BtnSetBoss">Set as boss</sys:String>
+
+    <!-- Extra button -->
+    <sys:String x:Key="BtnVisitorsWishList">👥 Visitors (wish-list)</sys:String>
+
+    <!-- Language buttons -->
+    <sys:String x:Key="LangSrLat">SR (Lat)</sys:String>
+    <sys:String x:Key="LangSrCyrl">SR (Cyr)</sys:String>
+    <sys:String x:Key="LangEn">EN</sys:String>
+
+    <!-- Formatting -->
+    <sys:String x:Key="PageOfFormat">Page {0} of {1}</sys:String>
+
+    <!-- Status (minimal) -->
+    <sys:String x:Key="StatusBooksRefreshed">Books refreshed</sys:String>
+    <sys:String x:Key="StatusVisitorsRefreshed">Visitors refreshed</sys:String>
+    <sys:String x:Key="StatusAuthorsRefreshed">Authors refreshed</sys:String>
+    <sys:String x:Key="StatusPublishersRefreshed">Publishers refreshed</sys:String>
+
+    <!-- Autor dialog -->
+    <sys:String x:Key="AutorDialogSubtitle">Enter details and select at least one book</sys:String>
+
+    <sys:String x:Key="TabInfo">Information</sys:String>
+    <sys:String x:Key="TabBooks">Books</sys:String>
+
+    <sys:String x:Key="ColPhone">Phone</sys:String>
+    <sys:String x:Key="ColYearsExperience">Years of experience</sys:String>
+    <sys:String x:Key="ColStreet">Street</sys:String>
+    <sys:String x:Key="ColNumber">Number</sys:String>
+    <sys:String x:Key="ColCityCountry">City / Country</sys:String>
+
+    <sys:String x:Key="BtnAddBook">Add book</sys:String>
+    <sys:String x:Key="BtnRemoveBook">Remove book</sys:String>
+
+    <sys:String x:Key="BtnConfirm">Confirm</sys:String>
+    <sys:String x:Key="BtnCancel">Cancel</sys:String>
+
+    <!-- AutorDialog (code-behind: titles) -->
+    <sys:String x:Key="AddAuthorTitle">Add Author</sys:String>
+    <sys:String x:Key="EditAuthorTitle">Edit Author</sys:String>
+
+    <!-- AutorDialog (code-behind: validation errors) -->
+    <sys:String x:Key="Err_Author_LkRequired">ID card number (LK) is required.</sys:String>
+    <sys:String x:Key="Err_Author_FirstNameRequired">First name is required.</sys:String>
+    <sys:String x:Key="Err_Author_LastNameRequired">Last name is required.</sys:String>
+    <sys:String x:Key="Err_Author_BirthDateRequired">Date of birth is required.</sys:String>
+    <sys:String x:Key="Err_Author_EmailInvalid">Email address is not valid.</sys:String>
+    <sys:String x:Key="Err_Author_PhoneRequired">Phone number is required.</sys:String>
+    <sys:String x:Key="Err_Author_YearsInvalid">Years of experience must be a whole number (≥ 0).</sys:String>
+    <sys:String x:Key="Err_Author_StreetRequired">Street is required.</sys:String>
+    <sys:String x:Key="Err_Author_NumberInvalid">Address number must be a positive whole number.</sys:String>
+    <sys:String x:Key="Err_Author_CityRequired">City is required.</sys:String>
+    <sys:String x:Key="Err_Author_CountryRequired">Country is required.</sys:String>
+    <sys:String x:Key="Err_Author_MinOneBook">Author must have at least one book.</sys:String>
+
+    <sys:String x:Key="Err_NoBooksToAdd">There are no available books to add (all are already assigned to the author).</sys:String>
+    <sys:String x:Key="Err_SelectAtLeastOneBook">Select at least one book in the table.</sys:String>
+
+    <!-- AutorDialog (code-behind: confirm remove books) -->
+    <sys:String x:Key="Confirm_RemoveBooks_Title">Remove Books</sys:String>
+    <sys:String x:Key="Confirm_RemoveBooks_Message">Are you sure you want to remove {0} book(s)?</sys:String>
+
+    <!-- line per selected book in details -->
+    <sys:String x:Key="ConfirmDetails_BookLine">ISBN: {0}  Title: {1}</sys:String>
+
+    <!-- AUTORI SA LISTE ZELJA -->
+    <sys:String x:Key="WinWishAuthorsTitle">Wish List Authors</sys:String>
+    <sys:String x:Key="WishAuthorsHeader">🧑‍💼 Wish List Authors</sys:String>
+    <sys:String x:Key="BtnClear">Clear</sys:String>
+    <sys:String x:Key="BtnClose">Close</sys:String>
+    <sys:String x:Key="WishAuthorsVisitorFormat">Visitor: {0}</sys:String>
+
+    <!-- CONFIRM DIALOG -->
+    <sys:String x:Key="Confirm_TitleDefault">Confirmation</sys:String>
+    <sys:String x:Key="Confirm_MessageDefault">Are you sure?</sys:String>
+
+    <sys:String x:Key="Common_Yes">Yes</sys:String>
+    <sys:String x:Key="Common_No">No</sys:String>
+    <sys:String x:Key="Common_Close">Close</sys:String>
+
+    <!-- CONFIRM DIALOG2 -->
+    <sys:String x:Key="Confirm2_WindowTitle">Confirmation</sys:String>
+    <sys:String x:Key="Confirm2_TitleDefault">Confirmation</sys:String>
+    <sys:String x:Key="Confirm2_MessageDefault">Are you sure?</sys:String>
+
+    <!-- confirm dialog autor -->
+    <sys:String x:Key="ConfirmAutor_WindowTitle">Remove Author</sys:String>
+    <sys:String x:Key="ConfirmAutor_HeaderTitle">Remove Author</sys:String>
+    <sys:String x:Key="ConfirmAutor_HeaderSubtitle">Confirm action</sys:String>
+    <sys:String x:Key="ConfirmAutor_Message">Are you sure you want to remove the author?</sys:String>
+
+    <!-- error dialog -->
+    <sys:String x:Key="Error_WindowTitle">Error</sys:String>
+    <sys:String x:Key="Common_OK">OK</sys:String>
+    <sys:String x:Key="Error_Title">Error</sys:String>
+    <sys:String x:Key="Error_Subtitle">Something went wrong</sys:String>
+    <sys:String x:Key="Error_Unknown">Unknown error.</sys:String>
+
+    <!-- info dialog -->
+    <sys:String x:Key="Info_WindowTitle">Information</sys:String>
+
+    <!-- Book dialog -->
+    <sys:String x:Key="WinBookTitle">Book</sys:String>
+    <sys:String x:Key="BookDialogSubtitle">Enter book details</sys:String>
+
+    <sys:String x:Key="BookPublisher">Publisher</sys:String>
+    <sys:String x:Key="BookPriceRsd">Price (RSD)</sys:String>
+    <sys:String x:Key="BookPages">Number of pages</sys:String>
+    <sys:String x:Key="BookAuthorsRequired">Authors *</sys:String>
+
+    <!-- BookDialog (code-behind: titles) -->
+    <sys:String x:Key="AddBookTitle">Add book</sys:String>
+    <sys:String x:Key="EditBookTitle">Edit book</sys:String>
+
+    <!-- BookDialog (code-behind: validation errors) -->
+    <sys:String x:Key="Err_Book_IsbnRequired">ISBN is required.</sys:String>
+    <sys:String x:Key="Err_Book_TitleRequired">Title is required.</sys:String>
+    <sys:String x:Key="Err_Book_GenreRequired">Genre is required.</sys:String>
+    <sys:String x:Key="Err_Book_PublisherRequired">Publisher is required.</sys:String>
+    <sys:String x:Key="Err_Book_YearInvalid">Publication year must be an integer (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Book_PriceInvalid">Price must be an integer (&gt;= 0).</sys:String>
+    <sys:String x:Key="Err_Book_PagesInvalid">Number of pages must be an integer (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Book_MinOneAuthor">A book must have at least one author.</sys:String>
+
+    <!-- Purchase dialog -->
+    <sys:String x:Key="Kupovina_Title">Purchase book</sys:String>
+    <sys:String x:Key="Kupovina_HeaderTitle">Purchase book</sys:String>
+    <sys:String x:Key="Kupovina_HeaderSubtitle">Enter purchase details</sys:String>
+
+    <sys:String x:Key="Kupovina_LabelIsbn">ISBN *</sys:String>
+    <sys:String x:Key="Kupovina_LabelNaziv">Title *</sys:String>
+    <sys:String x:Key="Kupovina_LabelOcena">Rating *</sys:String>
+    <sys:String x:Key="Kupovina_LabelDatum">Purchase date *</sys:String>
+
+    <!-- Visitor dialog -->
+    <sys:String x:Key="WinVisitorTitle">Visitor</sys:String>
+
+    <sys:String x:Key="Posetilac_HeaderTitle">Visitor</sys:String>
+    <sys:String x:Key="Posetilac_HeaderSubtitle">Edit details, purchases, and wishes</sys:String>
+
+    <sys:String x:Key="Posetilac_LabelCK">Membership card number (CK) *</sys:String>
+    <sys:String x:Key="Posetilac_LabelBirthDate">Birth date *</sys:String>
+    <sys:String x:Key="Posetilac_LabelCity">City *</sys:String>
+    <sys:String x:Key="Posetilac_LabelCountry">Country *</sys:String>
+
+    <sys:String x:Key="Posetilac_StatusRegular">Regular</sys:String>
+    <sys:String x:Key="Posetilac_StatusVip">VIP</sys:String>
+
+    <sys:String x:Key="Posetilac_TabPurchased">Purchased</sys:String>
+    <sys:String x:Key="Posetilac_TabWishes">Wishes</sys:String>
+
+    <sys:String x:Key="Posetilac_BtnCancelPurchase">Cancel purchase</sys:String>
+    <sys:String x:Key="Posetilac_BtnPurchase">Purchase</sys:String>
+    <sys:String x:Key="Posetilac_BtnAuthors">Authors</sys:String>
+
+    <sys:String x:Key="Posetilac_ColBook">Book</sys:String>
+    <sys:String x:Key="Posetilac_ColPrice">Price</sys:String>
+    <sys:String x:Key="Posetilac_ColDate">Date</sys:String>
+    <sys:String x:Key="Posetilac_ColRating">Rating</sys:String>
+    <sys:String x:Key="Posetilac_ColComment">Comment</sys:String>
+    <sys:String x:Key="Posetilac_ColPublisher">Publisher</sys:String>
+
+    <sys:String x:Key="Posetilac_SummaryAvgPlaceholder">Average rating: -</sys:String>
+    <sys:String x:Key="Posetilac_SummarySpentPlaceholder">Spent: - RSD</sys:String>
+    <sys:String x:Key="Posetilac_SummaryAvgFormat">Average rating: {0:0.0}</sys:String>
+    <sys:String x:Key="Posetilac_SummarySpentFormat">Spent: {0} RSD</sys:String>
+
+    <!-- Code-behind titles -->
+    <sys:String x:Key="AddVisitorTitle">Add visitor</sys:String>
+    <sys:String x:Key="EditVisitorTitle">Edit visitor</sys:String>
+
+    <!-- Code-behind errors -->
+    <sys:String x:Key="Err_WishListEmpty">Wish list is empty.</sys:String>
+    <sys:String x:Key="Err_NoAuthorsToShow">No authors to show (books have no assigned authors).</sys:String>
+
+    <sys:String x:Key="Err_BookAlreadyInWishList">That book is already in the wish list.</sys:String>
+    <sys:String x:Key="Err_SelectWishBookRow">Select a book from the wish list table.</sys:String>
+    <sys:String x:Key="Err_BookAlreadyPurchased">That book is already in purchased.</sys:String>
+    <sys:String x:Key="Err_SelectPurchasedRow">Select a purchase from the purchased table.</sys:String>
+
+    <!-- Confirm dialogs -->
+    <sys:String x:Key="Confirm_RemoveWishBook_Title">Remove book</sys:String>
+    <sys:String x:Key="Confirm_RemoveWishBook_Message">Are you sure you want to remove this book from the wish list?</sys:String>
+
+    <sys:String x:Key="Confirm_CancelPurchase_Title">Cancel purchase</sys:String>
+    <sys:String x:Key="Confirm_CancelPurchase_Message">Are you sure you want to cancel the purchase?</sys:String>
+
+    <!-- Validation errors -->
+    <sys:String x:Key="Err_Visitor_CkRequired">Membership card number (CK) is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_FirstNameRequired">First name is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_LastNameRequired">Last name is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_BirthDateRequired">Birth date is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_PhoneRequired">Phone is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_EmailInvalid">Email address is not valid.</sys:String>
+    <sys:String x:Key="Err_Visitor_StreetRequired">Street is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_NumberInvalid">Street number must be an integer (&gt; 0).</sys:String>
+    <sys:String x:Key="Err_Visitor_CityRequired">City is required.</sys:String>
+    <sys:String x:Key="Err_Visitor_CountryRequired">Country is required.</sys:String>
+
+    <!-- Visitors for author -->
+    <sys:String x:Key="WinVisitorsForAuthorTitle">Visitors for author</sys:String>
+    <sys:String x:Key="VisitorsForAuthor_HeaderDefault">👥 Visitors</sys:String>
+    <sys:String x:Key="VisitorsForAuthor_TotalFormat">Total: {0}</sys:String>
+
+    <!-- ✅ New keys used by MainWindow.xaml.cs (all sys:String) -->
+    <sys:String x:Key="PublishersAuthorsHeader">Publisher authors</sys:String>
+    <sys:String x:Key="PublishersAuthorsHint">Click a publisher on the left to see its authors.</sys:String>
+    <sys:String x:Key="PublishersAuthorsHeaderFor">Authors: {0}</sys:String>
+    <sys:String x:Key="PublishersAuthorsNone">No authors for this publisher.</sys:String>
+    <sys:String x:Key="PublishersAuthorsTotal">Total authors: {0}</sys:String>
+    <sys:String x:Key="ErrShowPublishersAuthors">Error while showing publisher authors:\n{0}</sys:String>
+
+    <sys:String x:Key="MsgAppSaved">Application state has been saved.</sys:String>
+    <sys:String x:Key="StatusSaved">Saved</sys:String>
+    <sys:String x:Key="StatusSaveError">Save error</sys:String>
+    <sys:String x:Key="ErrSave">Error while saving:\n{0}</sys:String>
+    <sys:String x:Key="MsgAbout">IS Book Fair - WPF application</sys:String>
+
+    <sys:String x:Key="ErrAdd">Error while adding:\n{0}</sys:String>
+    <sys:String x:Key="ErrUpdate">Error while updating:\n{0}</sys:String>
+    <sys:String x:Key="ErrDelete">Error while deleting:\n{0}</sys:String>
+    <sys:String x:Key="ErrGeneric">Error:\n{0}</sys:String>
+    <sys:String x:Key="StatusAddError">Add error</sys:String>
+    <sys:String x:Key="StatusUpdateError">Update error</sys:String>
+    <sys:String x:Key="StatusDeleteError">Delete error</sys:String>
+
+    <sys:String x:Key="MsgSelectBookFromTable">Select a book from the table.</sys:String>
+    <sys:String x:Key="MsgSelectVisitorFromTable">Select a visitor from the table.</sys:String>
+    <sys:String x:Key="MsgSelectAuthorFromTable">Select an author from the table.</sys:String>
+
+    <sys:String x:Key="MsgBookNotFound">Book not found.</sys:String>
+    <sys:String x:Key="MsgAuthorNotFound">Author not found.</sys:String>
+
+    <sys:String x:Key="StatusBookAdded">Book added</sys:String>
+    <sys:String x:Key="StatusBookUpdated">Book updated</sys:String>
+    <sys:String x:Key="StatusBookDeleted">Book deleted</sys:String>
+
+    <sys:String x:Key="StatusVisitorAdded">Visitor added</sys:String>
+    <sys:String x:Key="StatusVisitorUpdated">Visitor updated</sys:String>
+    <sys:String x:Key="StatusVisitorDeleted">Visitor deleted</sys:String>
+
+    <sys:String x:Key="StatusAuthorAdded">Author added</sys:String>
+    <sys:String x:Key="StatusAuthorUpdated">Author updated</sys:String>
+    <sys:String x:Key="StatusAuthorDeleted">Author deleted</sys:String>
+
+    <sys:String x:Key="MsgPublishersDerivedFromBooks">Publishers are derived from books (Knjiga.Izdavac). Add/edit a publisher by editing a book.</sys:String>
+    <sys:String x:Key="MsgPublisherEditViaBook">Edit a publisher by editing a book (Izdavac field).</sys:String>
+    <sys:String x:Key="MsgPublishersDerivedDeleteHint">Publishers are derived from books. Deleting a publisher means: delete or edit the books that reference that publisher.</sys:String>
+
+    <sys:String x:Key="DlgDeleteBookTitle">Delete book</sys:String>
+    <sys:String x:Key="DlgDeleteBookMessage">Are you sure you want&#10;to delete this book?</sys:String>
+    <sys:String x:Key="DlgDeleteBookDetails">{0} ({1})</sys:String>
+
+    <sys:String x:Key="DlgDeleteVisitorTitle">Delete visitor</sys:String>
+    <sys:String x:Key="DlgDeleteVisitorMessage">Are you sure you want&#10;to delete this visitor?</sys:String>
+    <sys:String x:Key="DlgDeleteVisitorDetails">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="DlgDeleteAuthorTitle">Delete author</sys:String>
+    <sys:String x:Key="DlgDeleteAuthorMessage">Are you sure you want&#10;to delete this author?</sys:String>
+    <sys:String x:Key="DlgDeleteAuthorDetails">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="StatusSearchBooks">Search: books</sys:String>
+    <sys:String x:Key="StatusSearchVisitors">Search: visitors</sys:String>
+    <sys:String x:Key="StatusSearchAuthors">Search: authors</sys:String>
+
+    <sys:String x:Key="MsgFeatureOnlyVisitorsTab">This feature is available in the Visitors tab.</sys:String>
+    <sys:String x:Key="MsgMarkVisitorInTable">Select a visitor in the table.</sys:String>
+    <sys:String x:Key="MsgVisitorHasNoWishlist">This visitor has no books on the wishlist.</sys:String>
+    <sys:String x:Key="WishlistAuthorsHeader">{0} {1} ({2})</sys:String>
+
+    <sys:String x:Key="MsgSelectPublisher">Select a publisher.</sys:String>
+    <sys:String x:Key="MsgSelectAuthorInTable">Select an author in the table.</sys:String>
+    <sys:String x:Key="DlgSetBossTitle">Set boss</sys:String>
+    <sys:String x:Key="DlgSetBossMessage">Are you sure you want to set this author as the publisher boss?</sys:String>
+    <sys:String x:Key="DlgSetBossDetails">Publisher: {0}&#10;Author: {1} {2}&#10;ID: {3}</sys:String>
+    <sys:String x:Key="MsgBossSetSuccess">Publisher boss has been set successfully.</sys:String>
+
+    <sys:String x:Key="MsgFeatureOnlyAuthorsTab">This feature is available in the Authors tab.</sys:String>
+    <sys:String x:Key="MsgAuthorHasNoBooks">The selected author has no books.</sys:String>
+    <sys:String x:Key="DlgVisitorsForAuthorTitle">👥 Visitors (wishlist) — {0} {1}</sys:String>
+
+    <!-- SelectAutorDialog -->
+    <sys:String x:Key="SelectAutor_Title">Select author</sys:String>
+    <sys:String x:Key="SelectAutor_HeaderTitle">Select author</sys:String>
+    <sys:String x:Key="SelectAutor_HeaderSubtitle">Choose one author from the list</sys:String>
+    <sys:String x:Key="Err_SelectAuthorFromList">Select an author from the list.</sys:String>
+
+    <!-- select knjiga dialog-->
+    <sys:String x:Key="SelectKnjiga_Title">Select book</sys:String>
+    <sys:String x:Key="SelectKnjiga_HeaderTitle">Select book</sys:String>
+    <sys:String x:Key="SelectKnjiga_HeaderSubtitle">Select a book and confirm (double-click works too).</sys:String>
+    <sys:String x:Key="SelectKnjiga_FilterTooltip">Filter by ISBN or title</sys:String>
+
+    <sys:String x:Key="Err_SelectBookFromList">Select a book from the list.</sys:String>
+
+    <!-- VisitorsTwoBooksDialog -->
+    <sys:String x:Key="WinVisitorsTwoBooksTitle">Visitors with two books</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_Header">📚 Visitors by two books</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_FirstBookLabel">First book:</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_SecondBookLabel">Second book:</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_ShowBtn">Show visitors</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_TabBothWish">Both books on wish list</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_TabBoughtFirstNotSecond">Bought first, not the second</sys:String>
+    <sys:String x:Key="VisitorsTwoBooks_SubFormat">First book: {0}, Second book: {1}</sys:String>
+
+    <sys:String x:Key="Err_SelectBothBooks">Please select both books!</sys:String>
+
+    <!-- AboutWindow -->
+    <sys:String x:Key="About_Title">About</sys:String>
+    <sys:String x:Key="About_Header">📚 Book Fair</sys:String>
+    <sys:String x:Key="About_Description">This app helps you manage visitors, authors, books, and publishers for a book fair. You can add new records, review existing ones, and sort data.</sys:String>
+    <sys:String x:Key="About_AuthorsHeader">Authors:</sys:String>
+
+    <sys:String x:Key="About_Author1">Ivo Andrić – Nobel Prize winner and one of the most famous Serbian writers. His works often explore history and everyday life in Bosnia.</sys:String>
+    <sys:String x:Key="About_Author2">Fredrik Backman – Swedish author known for warm, humorous novels that blend comedy with empathy.</sys:String>
+    <sys:String x:Key="About_Author3">Antoine de Saint-Exupéry – French writer and pilot, best known for The Little Prince, a world classic.</sys:String>
+    <sys:String x:Key="About_Author4">Markus Zusak – Australian author best known for The Book Thief.</sys:String>
+    <sys:String x:Key="About_Author5">Agatha Christie – English crime novelist famous for suspenseful mysteries and plot twists.</sys:String>
+    <sys:String x:Key="About_Author6">Harper Lee – American author best known for To Kill a Mockingbird.</sys:String>
+    <sys:String x:Key="About_Author7">Ernest Hemingway – American novelist and Nobel Prize winner known for a clear, direct style.</sys:String>
+    <sys:String x:Key="About_Author8">Arthur Conan Doyle – Creator of Sherlock Holmes and master of detective stories.</sys:String>
+    <sys:String x:Key="About_Author9">Fyodor Dostoevsky – Russian novelist who explored morality, psychology, and existential dilemmas.</sys:String>
+    <sys:String x:Key="About_Author10">Emily Brontë – English novelist, author of Wuthering Heights.</sys:String>
+    <sys:String x:Key="About_Author11">Terry Pratchett – British fantasy author known for the Discworld series.</sys:String>
+    <sys:String x:Key="About_Author12">Neil Gaiman – English author of fantasy and comics, known for dark, magical storytelling.</sys:String>
+
+    <sys:String x:Key="Err_SelectPublisher">Select a publisher.</sys:String>
+    <sys:String x:Key="Info_NoBooksForPublisher">No books found for this publisher.</sys:String>
+
+    <sys:String x:Key="Books_Name">Name</sys:String>
+    <sys:String x:Key="Books_ISBN">ISBN</sys:String>
+    <sys:String x:Key="Books_Genre">Genre</sys:String>
+    <sys:String x:Key="Books_Year">Year</sys:String>
+    <sys:String x:Key="Books_Price">Price</sys:String>
+    <sys:String x:Key="Books_Pages">Pages</sys:String>
+
+    <sys:String x:Key="Msg_Title_Warn">Warning</sys:String>
+    <sys:String x:Key="Msg_Title_Info">Info</sys:String>
+    <sys:String x:Key="BtnShowBooksOfPublisher">Publisher books</sys:String>
+
+</ResourceDictionary>

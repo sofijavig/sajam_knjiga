@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "SajamKnjiga.sln",
+    "projects": [
+      "Core\\Core.csproj",
+      "WpfClient\\WpfClient.csproj",
+      "sajam_knjiga_console_app\\sajam_knjiga_console_app.csproj"
+    ]
+  }
+}

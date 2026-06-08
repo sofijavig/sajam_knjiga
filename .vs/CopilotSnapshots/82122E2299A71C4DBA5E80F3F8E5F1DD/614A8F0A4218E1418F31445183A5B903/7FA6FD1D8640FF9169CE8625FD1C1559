@@ -1,0 +1,65 @@
+﻿using Core.Models;
+using System.Collections.Generic;
+using System.Linq;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Input;
+
+namespace WpfClient.Views
+{
+    public partial class PosetiociPoDveKnjigeDialog : Window
+    {
+        private readonly List<Posetilac> _sviPosetioci;
+        private readonly Knjiga _prva;
+        private readonly Knjiga _druga;
+
+        public PosetiociPoDveKnjigeDialog(Knjiga prva, Knjiga druga)
+        {
+            InitializeComponent();
+
+            _prva = prva;
+            _druga = druga;
+
+            // uzimamo samo posetioce koji su kupili obe knjige
+            _sviPosetioci = prva.Lista_Kupaca.Intersect(druga.Lista_Kupaca).ToList();
+
+            foreach (var p in _sviPosetioci)
+            {
+                p.IzracunajProsek(); // izračunaj prosečnu ocenu
+            }
+
+            DgObeKnjige.ItemsSource = _sviPosetioci;
+
+            TxtSub.Text = $"Prikaz posetilaca koji su kupili: {_prva.Naziv} i {_druga.Naziv}";
+        }
+
+        private void TbSearch_KeyUp(object sender, KeyEventArgs e)
+        {
+            FiltrirajRezultate(TbSearch.Text);
+        }
+
+        private void BtnClear_Click(object sender, RoutedEventArgs e)
+        {
+            TbSearch.Text = string.Empty;
+            FiltrirajRezultate(string.Empty);
+        }
+
+        private void FiltrirajRezultate(string filter)
+        {
+            if (string.IsNullOrWhiteSpace(filter))
+            {
+                DgObeKnjige.ItemsSource = _sviPosetioci;
+            }
+            else
+            {
+                var niz = filter.ToLower();
+                var filtrirani = _sviPosetioci.Where(p =>
+                    p.Ime.ToLower().Contains(niz) ||
+                    p.Prezime.ToLower().Contains(niz) ||
+                    p.CK.ToLower().Contains(niz)).ToList();
+
+                DgObeKnjige.ItemsSource = filtrirani;
+            }
+        }
+    }
+}

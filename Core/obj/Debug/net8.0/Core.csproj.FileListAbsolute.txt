@@ -1,0 +1,48 @@
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\adrese.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\autori.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\knjige.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\kupovine.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\posetioci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\adrese.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\autori.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\knjige.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\kupovine.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Data\posetioci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\Core\obj\Debug\net8.0\ref\Core.dll

@@ -1,0 +1,4 @@
+123-456|Nova Knjigica|Drama|2023|999|250|Laguna|123456
+f6e09222|Nova Knjiga|Drama|2026|999|250|Laguna|
+123-332|sofija|bravo lepa|2026|1000|25|laguna|123456
+123-234|Kradljivica knjiga|drama|2020|1000|200|laguna|

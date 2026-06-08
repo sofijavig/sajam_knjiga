@@ -1,0 +1,124 @@
+{
+  "version": 4,
+  "targets": {
+    "net8.0-windows": {
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "sajam_knjiga_console_app/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/sajam_knjiga_console_app.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sajam_knjiga_console_app.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "sajam_knjiga_console_app/1.0.0": {
+      "type": "project",
+      "path": "../sajam_knjiga_console_app/sajam_knjiga_console_app.csproj",
+      "msbuildProject": "../sajam_knjiga_console_app/sajam_knjiga_console_app.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows": [
+      "Core >= 1.0.0",
+      "sajam_knjiga_console_app >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sofija\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\WpfClient.csproj",
+      "projectName": "WpfClient",
+      "projectPath": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\WpfClient.csproj",
+      "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\WpfClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sofija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\Core\\Core.csproj"
+            },
+            "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\sajam_knjiga_console_app\\sajam_knjiga_console_app.csproj": {
+              "projectPath": "C:\\Users\\Sofija\\Desktop\\TRECA GODINA\\oisisi\\oisisi\\e2-oisisi-2025-grupa-1-tim-2\\e2-oisisi-2025-grupa-1-tim-2\\SajamKnjiga\\sajam_knjiga_console_app\\sajam_knjiga_console_app.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows": {
+        "framework": "net8.0-windows7.0",
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.exe
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.deps.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.runtimeconfig.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.lref
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.g.resources
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.sourcelink.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.Up2Date
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\refint\WpfClient.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\ref\WpfClient.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.g.resources
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.sourcelink.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\refint\WpfClient.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.deps.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.runtimeconfig.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.exe
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.exe
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.deps.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.runtimeconfig.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.Up2Date
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\ref\WpfClient.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutorDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDIalog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\InfoDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KnjigaDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetilacDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutorDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDIalog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\InfoDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KnjigaDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetilacDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ErrorDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ErrorDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDialog2.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDialog2.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectAutorDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectAutorDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfrimDialogAutor.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfrimDialogAutor.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutoriSaListeZeljaDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutoriSaListeZeljaDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KupovinaDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociZaAutorDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectKnjigaDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KupovinaDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociZaAutorDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectKnjigaDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\adrese.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\autori.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\knjige.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\kupovine.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\posetioci.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.en.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.sr-cirilica.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.sr.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\App.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociPoDveKnjigeDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociPoDveKnjigeDialog.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AboutWindow.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AboutWindow.g.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\IzdavacKnjigeDialog.baml
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\IzdavacKnjigeDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\adrese.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\autori.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\knjige.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\kupovine.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Data\posetioci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.deps.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.runtimeconfig.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.exe
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.exe
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.deps.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.runtimeconfig.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\Core.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\bin\Debug\net8.0-windows\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.en.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.sr-cirilica.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Resources\Strings.sr.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AboutWindow.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutorDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutoriSaListeZeljaDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDIalog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDialog2.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfrimDialogAutor.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ErrorDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\InfoDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\IzdavacKnjigeDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KnjigaDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KupovinaDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetilacDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociPoDveKnjigeDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociZaAutorDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectAutorDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectKnjigaDialog.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\App.baml
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AboutWindow.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutorDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\AutoriSaListeZeljaDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDIalog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfirmDialog2.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ConfrimDialogAutor.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\ErrorDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\InfoDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\IzdavacKnjigeDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KnjigaDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\KupovinaDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetilacDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociPoDveKnjigeDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\PosetiociZaAutorDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectAutorDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\Views\SelectKnjigaDialog.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient_MarkupCompile.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.g.resources
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.sourcelink.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.csproj.Up2Date
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\refint\WpfClient.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\WpfClient.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\WpfClient\obj\Debug\net8.0-windows\ref\WpfClient.dll

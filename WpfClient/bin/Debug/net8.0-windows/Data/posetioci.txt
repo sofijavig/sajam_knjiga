@@ -1,0 +1,7 @@
+Sofija|Vig|2004-09-25|Radnicka|15|Kula|Srbija|0613722206|sofijavig@gmail.com|CK-17-2026|0|R|0|111-543,128-987,176-457,154-999,100-234
+Marija|Gligoric|2004-10-29|Staroiriski put|20|Novi Sad|Srbija|0644491352|marijagligoric6@gmail.com|CK-6-2026|0|R|0|111-543
+Sara|Cvjetkovic|2005-02-19|Micurinova|22|Novi Sad|Srbija|062448932|saracvjetkovic@gmail.com|CK-9-2026|0|V|5|111-243
+Ana|Pekic|2004-03-06|Djure Strugara|52|Kula|Srbija|0613298876|ancica@gmail.com|CK-6-2025|0|V|0|125-325
+Tajana|Vujicic|2004-10-09|Divizije|166|Kula|Srbija|0612300065|vujicictajana@gmail.com|CK-2-2026|0|R|0|128-987,111-543
+Nikolina|Mrkic|2004-12-02|Djure Strugara|75|Kula|Srbija|0612365497|mrkic.nikolina@gmail.com|CK-12-2026|0|V|0|
+Katarina|Boskovic|2004-12-27|Beogradski kej|45|Novi Sad|Srbija|0612988804|boskovicck@gmail.com|CK-27-2026|0|R|0|111-234

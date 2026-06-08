@@ -1,0 +1,2 @@
+Ulica|1|Novi Sad|Srbija
+radnicka|15|Kula|srbija

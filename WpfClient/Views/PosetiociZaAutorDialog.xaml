@@ -1,0 +1,96 @@
+﻿<Window x:Class="WpfClient.Views.PosetiociZaAutoraDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{DynamicResource WinVisitorsForAuthorTitle}"
+        Width="920" Height="560"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        Background="#F6F7FB"
+        FontFamily="Segoe UI">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="Primary" Color="#76b88f"/>
+        <SolidColorBrush x:Key="PrimaryDark" Color="#2E7D32"/>
+        <SolidColorBrush x:Key="Border" Color="#E5E7EB"/>
+
+        <Style x:Key="PrimaryButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource Primary}"/>
+            <Setter Property="Foreground" Value="{StaticResource PrimaryDark}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                CornerRadius="10"
+                                Padding="10,6">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0"
+                Background="{StaticResource Primary}"
+                CornerRadius="16"
+                Padding="14,12"
+                Margin="0,0,0,12">
+            <TextBlock x:Name="TxtTitle"
+                       Text="{DynamicResource VisitorsForAuthor_HeaderDefault}"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="{StaticResource PrimaryDark}"/>
+        </Border>
+
+        <TextBox x:Name="TbSearch"
+                 Grid.Row="1"
+                 Height="34"
+                 Margin="0,0,0,10"
+                 ToolTip="{DynamicResource TooltipSearch}"
+                 KeyUp="TbSearch_KeyUp" />
+
+        <Border Grid.Row="2"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="14"
+                Padding="8">
+
+            <DataGrid x:Name="DgPosetioci"
+                      AutoGenerateColumns="False"
+                      IsReadOnly="True"
+                      BorderThickness="0">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="{DynamicResource ColVisitorsCardNumber}" Binding="{Binding CK}" Width="140"/>
+                    <DataGridTextColumn Header="{DynamicResource ColFirstName}" Binding="{Binding Ime}" Width="120"/>
+                    <DataGridTextColumn Header="{DynamicResource ColLastName}" Binding="{Binding Prezime}" Width="140"/>
+                    <DataGridTextColumn Header="{DynamicResource ColStatus}" Binding="{Binding Status}" Width="120"/>
+                    <DataGridTextColumn Header="{DynamicResource ColAddress}" Binding="{Binding Ad}" Width="*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+
+        <StackPanel Grid.Row="3"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="0,12,0,0">
+            <TextBlock x:Name="TxtCount"
+                       VerticalAlignment="Center"
+                       Margin="0,0,12,0"
+                       Foreground="#6B7280"/>
+            <Button Content="{DynamicResource BtnClose}"
+                    Width="110"
+                    IsCancel="True"
+                    Style="{StaticResource PrimaryButton}"/>
+        </StackPanel>
+    </Grid>
+</Window>

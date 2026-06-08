@@ -1,0 +1,2 @@
+LK-0c2f4c|Novi|Autor|1/1/1985 12:00:00 AM|060111111|autor@mail.com|1|Ulica|1|Novi Sad|Srbija|123-456:Nova Knjigica
+123456|seso|kristi|2/11/2026 12:00:00 AM|098234|dodod@kkd.fg|30|radnicka|15|Kula|srbija|123-456:Nova Knjigica

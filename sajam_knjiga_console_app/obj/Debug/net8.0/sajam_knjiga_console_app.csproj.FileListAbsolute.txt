@@ -1,0 +1,69 @@
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.exe
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.deps.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.runtimeconfig.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.sourcelink.json
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_kn.1CE2BFC5.Up2Date
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\refint\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\ref\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.exe
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.deps.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.runtimeconfig.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.sourcelink.json
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_kn.1CE2BFC5.Up2Date
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\refint\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\ref\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\adrese.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\autori.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\knjige.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\kupovine.txt
+C:\Users\Sofija\Desktop\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\posetioci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\adrese.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\autori.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\izdavaci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\knjige.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\kupovine.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Data\posetioci.txt
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.exe
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.deps.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.runtimeconfig.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\bin\Debug\net8.0\Core.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.AssemblyReference.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfoInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.AssemblyInfo.cs
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.sourcelink.json
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_kn.1CE2BFC5.Up2Date
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\refint\sajam_knjiga_console_app.dll
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.pdb
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\sajam_knjiga_console_app.genruntimeconfig.cache
+C:\Users\Sofija\Desktop\TRECA GODINA\oisisi\oisisi\e2-oisisi-2025-grupa-1-tim-2\e2-oisisi-2025-grupa-1-tim-2\SajamKnjiga\sajam_knjiga_console_app\obj\Debug\net8.0\ref\sajam_knjiga_console_app.dll

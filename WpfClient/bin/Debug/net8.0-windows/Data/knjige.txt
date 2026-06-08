@@ -1,0 +1,16 @@
+123-456|Kradljivica knjiga|Drama|2020|1000|320|Laguna|12340984
+111-234|Ubistvo u Orijent Ekspresu|Triler|2019|990|350|Vulkan|12349865
+111-543|Mali princ|Knjige za decu|2025|500|112|Vulkan|12398345
+125-765|Smrt na Nilu|Triler|2026|1200|343|Laguna|12349865
+176-457|Covek po imenu Uve|Drama|2012|990|350|Laguna|12365409
+165-765|Moja baka vam se izvinjava|Drama|2026|1200|463|Vulkan|12365409
+122-543|Brit Mari je bila tu|Drama|2025|1100|390|Laguna|12365409
+154-999|Prokleta avlija|Drama|2026|1900|320|Laguna|12345678
+111-243|Ubiti pticu rugalicu|Drama|2020|1300|345|Delfi|12376589
+128-987|Na Drini cuprija|Drama|2026|1700|300|Delfi|12345678
+111-325|Imati i nemati|Drama|2026|1000|311|Delfi|12365433
+109-000|Sunce  se ponovo radja|Drama|2026|1100|320|Laguna|12365433
+100-234|Baskervilski pas|Triler|2026|1100|356|Vulkan|12390084
+125-325|Orkanski visovi|Romansa|2026|2000|440|Laguna|12365444
+124-333|Zlocin i kazna|Drama|2026|1900|490|Detelina|12355543
+122-221|Dobra predskazanja|Fantastika|2026|2000|430|Laguna|87654323,98765432

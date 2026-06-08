@@ -1,0 +1,887 @@
+﻿<Window x:Class="WpfClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{DynamicResource Title}"
+        Width="1100" Height="650"
+        WindowStartupLocation="CenterScreen"
+        Background="#F6F7FB"
+        FontFamily="Segoe UI">
+
+    <Window.Resources>
+        <SolidColorBrush x:Key="Primary" Color="#F5B0CB"/>
+        <SolidColorBrush x:Key="PrimaryDark" Color="#C2185B"/>
+        <SolidColorBrush x:Key="Card" Color="White"/>
+        <SolidColorBrush x:Key="Text" Color="#111827"/>
+        <SolidColorBrush x:Key="SubText" Color="#6B7280"/>
+        <SolidColorBrush x:Key="Border" Color="#E5E7EB"/>
+        <SolidColorBrush x:Key="Hover" Color="#F3F4F6"/>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="{StaticResource Text}"/>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Style.Triggers>
+                <Trigger Property="SortDirection" Value="Ascending">
+                    <Setter Property="ContentTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding}" />
+                                    <TextBlock Text=" ▲" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+                <Trigger Property="SortDirection" Value="Descending">
+                    <Setter Property="ContentTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding}" />
+                                    <TextBlock Text=" ▼" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="MenuItem">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+        </Style>
+
+        <DropShadowEffect x:Key="CardShadow" BlurRadius="14" ShadowDepth="2" Opacity="0.12"/>
+
+        <Style x:Key="LangButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="75"/>
+            <Setter Property="Height" Value="32"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="#C2185B"/>
+            <Setter Property="BorderBrush" Value="#F5B0CB"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border"
+                        CornerRadius="16"
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="{TemplateBinding BorderBrush}"
+                        BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border"
+                                Property="Background"
+                                Value="#FCE4EC"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border"
+                                Property="Background"
+                                Value="#F8BBD0"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="IconButton" TargetType="Button">
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="Height" Value="36"/>
+            <Setter Property="Margin" Value="6,0"/>
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="10"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="{StaticResource Hover}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#EDEEF2"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.45"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="PrimaryButton" TargetType="Button" BasedOn="{StaticResource IconButton}">
+            <Setter Property="Background" Value="{StaticResource Primary}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="10" Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="{StaticResource PrimaryDark}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#AD1457"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Opacity" Value="0.55"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- PAGER BUTTON -->
+        <Style x:Key="PagerButton" TargetType="Button" BasedOn="{StaticResource IconButton}">
+            <Setter Property="Width" Value="36"/>
+            <Setter Property="Height" Value="32"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="IsReadOnly" Value="True"/>
+            <Setter Property="SelectionMode" Value="Single"/>
+            <Setter Property="SelectionUnit" Value="FullRow"/>
+            <Setter Property="CanUserAddRows" Value="False"/>
+            <Setter Property="CanUserDeleteRows" Value="False"/>
+            <Setter Property="GridLinesVisibility" Value="None"/>
+            <Setter Property="HeadersVisibility" Value="Column"/>
+            <Setter Property="RowBackground" Value="White"/>
+            <Setter Property="AlternatingRowBackground" Value="#FAFAFB"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="RowHeight" Value="36"/>
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="ColumnHeaderStyle">
+                <Setter.Value>
+                    <Style TargetType="DataGridColumnHeader">
+                        <Setter Property="Background" Value="#F3F4F6"/>
+                        <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+                        <Setter Property="BorderThickness" Value="0,0,0,1"/>
+                        <Setter Property="Padding" Value="12,9"/>
+                        <Setter Property="FontWeight" Value="SemiBold"/>
+                        <Setter Property="Foreground" Value="{StaticResource Text}"/>
+                    </Style>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="DataGridRow">
+            <Setter Property="BorderThickness" Value="0"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FFF1F6"/>
+                </Trigger>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#FCE4EC"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="TabControl">
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Background" Value="Transparent"/>
+        </Style>
+
+        <Style TargetType="TabItem">
+            <Setter Property="Padding" Value="18,10"/>
+            <Setter Property="Foreground" Value="{StaticResource SubText}"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TabItem">
+                        <StackPanel Margin="0,0,20,0" Background="Transparent" Cursor="Hand">
+                            <ContentPresenter ContentSource="Header" HorizontalAlignment="Center"/>
+                            <Border x:Name="Underline"
+                                    Height="3"
+                                    Background="Transparent"
+                                    CornerRadius="2"
+                                    Margin="0,6,0,0"/>
+                        </StackPanel>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="Underline" Property="Background" Value="{StaticResource Primary}"/>
+                                <Setter Property="Foreground" Value="{StaticResource Text}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="{StaticResource Text}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel>
+
+        <!-- TOP BAR -->
+        <Border DockPanel.Dock="Top"
+                Background="{StaticResource Primary}"
+                Padding="14,12">
+            <Grid Background="{StaticResource Primary}" Height="70">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- LEVO -->
+                <StackPanel Orientation="Horizontal"
+                VerticalAlignment="Center"
+                Margin="20,0,0,0">
+                    <TextBlock Text="📚"
+                   FontSize="20"
+                   Margin="0,0,8,0"/>
+                    <TextBlock Text="{DynamicResource Title}"
+                   FontSize="20"
+                   FontWeight="Bold"
+                   Foreground="White"/>
+                </StackPanel>
+
+                <!-- DESNO JEZIK DUGMAD -->
+                <StackPanel Grid.Column="2"
+                Orientation="Horizontal"
+                VerticalAlignment="Center"
+                Margin="0,0,20,0"
+                HorizontalAlignment="Right">
+
+                    <Button Content="SR (Lat)" Style="{StaticResource LangButtonStyle}" Click="BtnSrLat_Click"/>
+                    <Button Content="SR (Ćir)" Style="{StaticResource LangButtonStyle}" Click="BtnSrCir_Click"/>
+                    <Button Content="EN"       Style="{StaticResource LangButtonStyle}" Click="BtnEn_Click"/>
+
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- MENU -->
+        <Menu DockPanel.Dock="Top" Background="White">
+            <MenuItem Header="{DynamicResource MenuFile}">
+                <MenuItem Header="{DynamicResource MenuNew}" Click="MenuNew_Click" InputGestureText="Ctrl+N"/>
+                <MenuItem Header="{DynamicResource MenuSave}" Click="MenuSave_Click" InputGestureText="Ctrl+S"/>
+
+                <MenuItem Header="{DynamicResource MenuOpen}">
+                    <MenuItem Header="{DynamicResource MenuOpenVisitors}" Click="MenuOpenPosetioci_Click"/>
+                    <MenuItem Header="{DynamicResource MenuOpenAuthors}" Click="MenuOpenAutori_Click"/>
+                    <MenuItem Header="{DynamicResource MenuOpenBooks}" Click="MenuOpenKnjige_Click"/>
+                    <MenuItem Header="{DynamicResource MenuOpenPublishers}" Click="MenuOpenIzdavaci_Click"/>
+                </MenuItem>
+
+                <Separator/>
+                <MenuItem Header="{DynamicResource MenuExit}" Click="MenuExit_Click" InputGestureText="Ctrl+Q"/>
+            </MenuItem>
+
+            <MenuItem Header="{DynamicResource MenuEdit}">
+                <MenuItem Header="{DynamicResource MenuEditSelected}" Click="BtnIzmeni_Click" InputGestureText="Ctrl+E"/>
+                <MenuItem Header="{DynamicResource MenuDeleteSelected}" Click="BtnObrisi_Click" InputGestureText="Del"/>
+            </MenuItem>
+
+            <MenuItem Header="{DynamicResource MenuHelp}">
+                <MenuItem Header="{DynamicResource MenuAbout}" Click="MenuAbout_Click" InputGestureText="F1"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- TOOLBAR + SEARCH -->
+        <Border DockPanel.Dock="Top"
+                Background="{StaticResource Card}"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="16"
+                Margin="12,10,12,8"
+                Padding="12"
+                Effect="{StaticResource CardShadow}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Button Style="{StaticResource PrimaryButton}" Click="BtnDodaj_Click" ToolTip="{DynamicResource TooltipAdd}">
+                        <TextBlock Text="＋" FontSize="18" FontWeight="Bold" Foreground="White"/>
+                    </Button>
+
+                    <Button Style="{StaticResource IconButton}" Click="BtnIzmeni_Click" ToolTip="{DynamicResource TooltipEdit}">
+                        <TextBlock Text="✎" FontSize="16" FontWeight="Bold"/>
+                    </Button>
+
+                    <Button Style="{StaticResource IconButton}" Click="BtnObrisi_Click" ToolTip="{DynamicResource TooltipDelete}">
+                        <TextBlock Text="🗑" FontSize="15"/>
+                    </Button>
+
+                    <Border Width="1" Height="22" Margin="10,0" Background="{StaticResource Border}"/>
+
+                    <Button Click="BtnOsvezi_Click"
+                            Padding="12,6"
+                            Margin="0,0,6,0"
+                            Background="{StaticResource Hover}"
+                            BorderBrush="{StaticResource Border}"
+                            BorderThickness="1"
+                            Cursor="Hand">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="⟳" FontSize="14" Margin="0,0,6,0"/>
+                            <TextBlock Text="{DynamicResource Refresh}" FontWeight="SemiBold"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+
+                <!-- Search -->
+                <Border Grid.Column="1"
+                        BorderBrush="{StaticResource Border}"
+                        BorderThickness="1"
+                        CornerRadius="12"
+                        Background="#FAFAFB"
+                        Padding="10,7">
+                    <DockPanel LastChildFill="True">
+                        <TextBlock Text="🔍" Margin="0,0,8,0" VerticalAlignment="Center" Foreground="{StaticResource SubText}"/>
+
+                        <Grid>
+                            <TextBox x:Name="TbSearch"
+                                     Width="260"
+                                     BorderThickness="0"
+                                     Background="Transparent"
+                                     VerticalContentAlignment="Center"
+                                     KeyDown="TbSearch_KeyDown"
+                                     FontSize="14"/>
+                            <TextBlock Margin="2,0,0,0"
+                                       VerticalAlignment="Center"
+                                       Foreground="#9CA3AF"
+                                       IsHitTestVisible="False"
+                                       Text="{DynamicResource SearchPlaceholder}">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Setter Property="Visibility" Value="Collapsed"/>
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Text, ElementName=TbSearch}" Value="">
+                                                <Setter Property="Visibility" Value="Visible"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                        </Grid>
+
+                        <Button DockPanel.Dock="Right"
+                                Width="34"
+                                Margin="8,0,0,0"
+                                BorderThickness="0"
+                                Background="Transparent"
+                                ToolTip="{DynamicResource TooltipSearch}"
+                                Cursor="Hand"
+                                Click="BtnSearch_Click">
+                            <TextBlock Text="→" FontSize="16" Foreground="{StaticResource SubText}"/>
+                        </Button>
+                    </DockPanel>
+                </Border>
+            </Grid>
+        </Border>
+
+        <!-- STATUS BAR -->
+        <Border DockPanel.Dock="Bottom"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1,1,1,0">
+            <Grid Margin="12,6">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock x:Name="StatusLeft" Foreground="{StaticResource SubText}"/>
+                <TextBlock x:Name="StatusRight" Grid.Column="1" Foreground="{StaticResource SubText}"/>
+            </Grid>
+        </Border>
+
+        <!-- CONTENT -->
+        <Border Background="{StaticResource Card}"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="16"
+                Margin="12,0,12,12"
+                Padding="12"
+                Effect="{StaticResource CardShadow}">
+            <DockPanel>
+
+                <TabControl x:Name="MainTabs" DockPanel.Dock="Top" Margin="5,0,0,10">
+
+                    <!-- POSETIOCI -->
+                    <TabItem Header="{DynamicResource Visitors}">
+                        <Grid Margin="0,10,0,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                   Text="{DynamicResource VisitorsTitle}"
+                   FontSize="16"
+                   FontWeight="Bold"
+                   Margin="4,0,0,10"/>
+
+                            <Border Grid.Row="1"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="14"
+                Padding="12">
+
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <DataGrid x:Name="dgPosetioci"
+                          Grid.Row="0"
+                          AutoGenerateColumns="False"
+                          CanUserSortColumns="True"
+                          Sorting="DgPosetioci_Sorting"
+                          VerticalScrollBarVisibility="Auto">
+                                        <DataGrid.Columns>
+                                            <DataGridTextColumn Header="{DynamicResource ColVisitorsCardNumber}" Binding="{Binding CK}" SortMemberPath="CK"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColFirstName}" Binding="{Binding Ime}" SortMemberPath="Ime"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColLastName}" Binding="{Binding Prezime}" SortMemberPath="Prezime"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColAddress}" Binding="{Binding Ad}" CanUserSort="False"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColStatus}" Binding="{Binding Status}" SortMemberPath="Status"/>
+                                        </DataGrid.Columns>
+                                    </DataGrid>
+
+                                    <!-- PAGINACIJA POSETIOCI -->
+                                    <StackPanel Grid.Row="1"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,10,0,0">
+                                        <Button x:Name="BtnPosetiociPrev"
+                            Style="{StaticResource PagerButton}"
+                            Content="◀"
+                            Click="BtnPosetiociPrev_Click"/>
+
+                                        <Border Background="White"
+                            BorderBrush="{StaticResource Border}"
+                            BorderThickness="1"
+                            CornerRadius="10"
+                            Padding="10,4"
+                            Margin="8,0">
+                                            <TextBlock x:Name="TxtPosetiociPage"
+                                   VerticalAlignment="Center"
+                                   Foreground="{StaticResource SubText}"
+                                   FontWeight="SemiBold"/>
+                                        </Border>
+
+                                        <Button x:Name="BtnPosetiociNext"
+                            Style="{StaticResource PagerButton}"
+                            Content="▶"
+                            Click="BtnPosetiociNext_Click"/>
+                                    </StackPanel>
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </TabItem>
+                    <!-- AUTORI -->
+                    <!-- AUTORI -->
+                    <TabItem Header="{DynamicResource Authors}">
+                        <Grid Margin="0,10,0,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- GORNJI RED: NASLOV + DUGME 8.27 -->
+                            <Grid Grid.Row="0" Margin="0,0,0,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- NASLOV -->
+                                <TextBlock Text="{DynamicResource AuthorsTitle}"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"
+                       Margin="4,0,0,0"/>
+
+                                <!-- DUGME -->
+                                <Button Grid.Column="1"
+        Content="{DynamicResource BtnVisitorsWishList}"
+        Width="240"
+        Height="44"
+        HorizontalAlignment="Right"
+        VerticalAlignment="Center"
+        Style="{StaticResource PrimaryButton}"
+        Click="MenuPosetiociZaAutora_Click"/>
+                            </Grid>
+
+                            <!-- CARD -->
+                            <Border Grid.Row="1"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="14"
+                Padding="12">
+
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <!-- DATA GRID -->
+                                    <DataGrid x:Name="dgAutori"
+                          Grid.Row="0"
+                          AutoGenerateColumns="False"
+                          CanUserSortColumns="True"
+                          Sorting="DgAutori_Sorting"
+                          VerticalScrollBarVisibility="Auto">
+                                        <DataGrid.Columns>
+                                            <DataGridTextColumn Header="{DynamicResource ColFirstName}" Binding="{Binding Ime}" SortMemberPath="Ime"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColLastName}" Binding="{Binding Prezime}" SortMemberPath="Prezime"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColAuthorsIdCard}" Binding="{Binding LK}" CanUserSort="False"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColAuthorsBirthDate}" Binding="{Binding DatRodj}" CanUserSort="False"/>
+                                            <DataGridTextColumn Header="{DynamicResource ColEmail}" Binding="{Binding Mail}" SortMemberPath="Mail"/>
+                                        </DataGrid.Columns>
+                                    </DataGrid>
+
+                                    <!-- PAGINACIJA -->
+                                    <StackPanel Grid.Row="1"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,10,0,0">
+
+                                        <Button x:Name="BtnAutoriPrev"
+                            Style="{StaticResource PagerButton}"
+                            Content="◀"
+                            Click="BtnAutoriPrev_Click"/>
+
+                                        <Border Background="White"
+                            BorderBrush="{StaticResource Border}"
+                            BorderThickness="1"
+                            CornerRadius="10"
+                            Padding="10,4"
+                            Margin="8,0">
+                                            <TextBlock x:Name="TxtAutoriPage"
+                                   VerticalAlignment="Center"
+                                   Foreground="{StaticResource SubText}"
+                                   FontWeight="SemiBold"/>
+                                        </Border>
+
+                                        <Button x:Name="BtnAutoriNext"
+                            Style="{StaticResource PagerButton}"
+                            Content="▶"
+                            Click="BtnAutoriNext_Click"/>
+                                    </StackPanel>
+
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </TabItem>
+                    <!-- KNJIGE -->
+                    <TabItem Header="{DynamicResource Books}">
+                        <Grid Margin="0,10,0,0">
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- HEADER: naslov + dugme -->
+                            <Grid Grid.Row="0" Margin="4,0,4,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <TextBlock Text="{DynamicResource BooksTitle}"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"/>
+
+                                <Button Grid.Column="1"
+                    Content="Prikaži posetioce po dve knjige"
+                    Height="38"
+                    Padding="20,0"
+                    MinWidth="260"
+                    HorizontalAlignment="Right"
+                    Style="{StaticResource PrimaryButton}"
+                    Click="BtnPosetiociPoDveKnjige_Click"/>
+                            </Grid>
+
+                            <!-- TABELA + PAGINACIJA -->
+                            <Border Grid.Row="1"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="14"
+                Padding="12">
+
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+
+                                    <!-- DataGrid -->
+                                    <DataGrid x:Name="dgKnjige"
+                          Grid.Row="0"
+                          AutoGenerateColumns="False"
+                          SelectionMode="Extended"
+                          SelectionUnit="FullRow"
+                          CanUserSortColumns="True"
+                          Sorting="DgKnjige_Sorting"
+                          VerticalScrollBarVisibility="Auto">
+
+                                        <DataGrid.Columns>
+                                            <DataGridTextColumn Header="{DynamicResource ColBooksISBN}"
+                                            Binding="{Binding ISBN}"
+                                            SortMemberPath="ISBN"/>
+
+                                            <DataGridTextColumn Header="{DynamicResource ColBooksTitle}"
+                                            Binding="{Binding Naziv}"
+                                            SortMemberPath="Naziv"/>
+
+                                            <DataGridTextColumn Header="{DynamicResource ColBooksPrice}"
+                                            Binding="{Binding Cena}"
+                                            SortMemberPath="Cena"/>
+
+                                            <DataGridTextColumn Header="{DynamicResource ColBooksYear}"
+                                            Binding="{Binding GodinaIzdanja}"
+                                            SortMemberPath="GodinaIzdanja"/>
+
+                                            <DataGridTextColumn Header="{DynamicResource ColBooksGenre}"
+                                            Binding="{Binding Zanr}"
+                                            SortMemberPath="Zanr"/>
+                                        </DataGrid.Columns>
+                                    </DataGrid>
+
+                                    <!-- PAGINACIJA -->
+                                    <StackPanel Grid.Row="1"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,10,0,0">
+
+                                        <Button x:Name="BtnKnjigePrev"
+                            Style="{StaticResource PagerButton}"
+                            Content="◀"
+                            Click="BtnKnjigePrev_Click"/>
+
+                                        <Border Background="White"
+                            BorderBrush="{StaticResource Border}"
+                            BorderThickness="1"
+                            CornerRadius="10"
+                            Padding="10,4"
+                            Margin="8,0">
+
+                                            <TextBlock x:Name="TxtKnjigePage"
+                                   VerticalAlignment="Center"
+                                   Foreground="{StaticResource SubText}"
+                                   FontWeight="SemiBold"/>
+                                        </Border>
+
+                                        <Button x:Name="BtnKnjigeNext"
+                            Style="{StaticResource PagerButton}"
+                            Content="▶"
+                            Click="BtnKnjigeNext_Click"/>
+                                    </StackPanel>
+
+                                </Grid>
+                            </Border>
+
+                        </Grid>
+                    </TabItem>
+
+                    <!-- IZDAVAČI -->
+                    <TabItem Header="{DynamicResource Publishers}">
+                        <Grid Margin="0,10,0,0">
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- HEADER + DUGME -->
+                            <Grid Margin="4,0,0,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <!-- NASLOV -->
+                                <TextBlock Grid.Column="0"
+                       Text="{DynamicResource PublishersTitle}"
+                       FontSize="16"
+                       FontWeight="Bold"
+                       VerticalAlignment="Center"/>
+
+                                <!-- DUGME -->
+                                <Button Grid.Column="1"
+                    Content="{DynamicResource BtnShowBooksOfPublisher}"
+                    Width="190"
+                    Height="36"
+                    Padding="14,4"
+                    Background="{StaticResource Primary}"
+                    Foreground="White"
+                    BorderThickness="0"
+                    Cursor="Hand"
+                    Click="BtnKnjigeIzdavaca_Click">
+
+                                    <Button.Template>
+                                        <ControlTemplate TargetType="Button">
+                                            <Border Background="{TemplateBinding Background}"
+                                CornerRadius="18">
+                                                <ContentPresenter HorizontalAlignment="Center"
+                                              VerticalAlignment="Center"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </Button.Template>
+
+                                </Button>
+                            </Grid>
+
+                            <Border Grid.Row="1"
+                Background="White"
+                BorderBrush="{StaticResource Border}"
+                BorderThickness="1"
+                CornerRadius="14"
+                Padding="12">
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="2*"/>
+                                        <ColumnDefinition Width="14"/>
+                                        <ColumnDefinition Width="3*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <!-- LEVO: IZDAVAČI -->
+                                    <Border Grid.Column="0"
+                        Background="White"
+                        BorderBrush="{StaticResource Border}"
+                        BorderThickness="1"
+                        CornerRadius="12"
+                        Padding="10">
+
+                                        <DataGrid x:Name="dgIzdavaci"
+                              AutoGenerateColumns="False"
+                              VerticalScrollBarVisibility="Auto"
+                              SelectionChanged="DgIzdavaci_SelectionChanged">
+
+                                            <DataGrid.Columns>
+                                                <DataGridTextColumn Header="{DynamicResource ColPublishersName}"
+                                                Binding="{Binding Naziv}"
+                                                Width="*"/>
+                                            </DataGrid.Columns>
+
+                                        </DataGrid>
+                                    </Border>
+
+                                    <!-- DESNO: AUTORI IZABRANOG IZDAVAČA -->
+                                    <Border Grid.Column="2"
+                        Background="White"
+                        BorderBrush="{StaticResource Border}"
+                        BorderThickness="1"
+                        CornerRadius="12"
+                        Padding="10">
+
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto"/>
+                                                <RowDefinition Height="*"/>
+                                                <RowDefinition Height="Auto"/>
+                                            </Grid.RowDefinitions>
+
+                                            <!-- HEADER -->
+                                            <TextBlock x:Name="TxtAutoriIzdavacaHeader"
+                                   Grid.Row="0"
+                                   Text="{DynamicResource PublishersAuthorsHeaderDefault}"
+                                   FontSize="14"
+                                   FontWeight="SemiBold"
+                                   Margin="2,0,0,10"/>
+
+                                            <!-- AUTORI DATAGRID -->
+                                            <DataGrid x:Name="dgAutoriIzdavaca"
+                                  Grid.Row="1"
+                                  AutoGenerateColumns="False"
+                                  VerticalScrollBarVisibility="Auto"
+                                  HorizontalScrollBarVisibility="Auto"
+                                  Margin="0,0,0,10">
+
+                                                <DataGrid.Columns>
+                                                    <DataGridTextColumn Header="{DynamicResource ColFirstName}"
+                                                    Binding="{Binding Ime}"
+                                                    Width="*"/>
+                                                    <DataGridTextColumn Header="{DynamicResource ColLastName}"
+                                                    Binding="{Binding Prezime}"
+                                                    Width="*"/>
+                                                    <DataGridTextColumn Header="{DynamicResource ColEmail}"
+                                                    Binding="{Binding Mail}"
+                                                    Width="*"/>
+                                                </DataGrid.Columns>
+
+                                            </DataGrid>
+
+                                            <!-- DONJI DEO -->
+                                            <Grid Grid.Row="2" Margin="0,6,0,0">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*"/>
+                                                    <ColumnDefinition Width="Auto"/>
+                                                </Grid.ColumnDefinitions>
+
+                                                <TextBlock x:Name="TxtAutoriIzdavacaHint"
+                                       VerticalAlignment="Center"
+                                       Foreground="{StaticResource SubText}"
+                                       Text="{DynamicResource PublishersHintDefault}"/>
+
+                                                <Button x:Name="BtnPostaviSefa"
+                                    Grid.Column="1"
+                                    Content="{DynamicResource BtnSetBoss}"
+                                    Width="170"
+                                    Height="38"
+                                    Padding="12,4"
+                                    HorizontalAlignment="Right"
+                                    Click="BtnPostaviSefa_Click"/>
+                                            </Grid>
+
+                                        </Grid>
+                                    </Border>
+
+                                </Grid>
+
+                            </Border>
+
+                        </Grid>
+                    </TabItem>
+
+                </TabControl>
+            </DockPanel>
+        </Border>
+    </DockPanel>
+</Window>

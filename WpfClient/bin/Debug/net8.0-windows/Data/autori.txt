@@ -1,0 +1,12 @@
+12345678|Ivo|Andric|10/10/1892 12:00:00 AM|0613723309|ivoandric@gmail.com|30|Trsiceva|1|Travnik|Bosna i Hercegovina|154-999:Prokleta avlija;128-987:Na Drini cuprija;124-333:Zlocin i kazna
+12365409|Frederik|Bakman|6/2/1981 12:00:00 AM|0624268394|frederik.bakman@gmail.com|12|Brit-Mari|6|Brankyrka|Svedska|176-457:Covek po imenu Uve;165-765:Moja baka vam se izvinjava;122-543:Brit Mari je bila tu
+12398345|Antoan|de Sent Egziperi|6/29/1900 12:00:00 AM|0612254370|asteroid@gmail.com|2|Baobab|43|Lion|Francuska|111-543:Mali princ;100-234:Baskervilski pas
+12340984|Markus|Zusak|6/23/1975 12:00:00 AM|0626398541|zusak_m@gmail.com|10|Himmel|4|Sidni|Australija|
+12349865|Agata|Kristi|6/15/1890 12:00:00 AM|0653459860|agatica@gmail.com|36|Marpl|11|London|Velika Britanija|
+12376589|Harper|Li|4/28/1926 12:00:00 AM|0698435285|harperli@gmail.com|22|Golden|99|Monroevil|Ujedinjenje Americke Drzave|111-243:Ubiti pticu rugalicu
+12365433|Ernest|Hemingvej|7/26/1899 12:00:00 AM|0693821894|ernesto@gmail.com|23|Pustolova|111|Ouk Park|Ujedinjene Americke Drzave|
+12390084|Artur Konan|Dojl|5/22/1859 12:00:00 AM|0634928175|art.k.dojl@gmail.com|30|Bejker|22|London|Velika Britanija|
+12355543|Fjodor|Dostojevski|11/11/1826 12:00:00 AM|0647777219|fjodor@gmail.com|36|Brestova|11|Moskva|Rusija|
+12365444|Emili|Bronte|7/30/1818 12:00:00 AM|0612365498|emi_b@gmail.com|19|Obala|1|Torton|Velika Britanija|
+98765432|Teri|Pracet|4/28/1948 12:00:00 AM|0629837584|terip@gmail.com|19|Diskova|100|Bikonsfild|Velika Britanija|
+87654323|Nil|Gejmen|11/10/1960 12:00:00 AM|0639584732|n1lgejm3n@gmail.com|23|Koralina|13|Portcester|Velika Britanija|
